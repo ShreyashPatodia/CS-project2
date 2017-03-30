@@ -1,0 +1,86 @@
+Report                                                                 farrugiam
+================================================================================
+
+This report investigates the performance of the mastermind codemaker server, by 
+analysing the number of blocking calls made by the server's threads while 
+serving a large number of clients. The two main sources of blocking are pthread 
+mutexes and sockets. `server` tracks blocking calls on both resources, and 
+collects rusage data on total voluntary and involuntary context switches for 
+comparison.
+
+To track mutex blocks, locks are wrapped, attempting `pthread_mutex_trylock()`
+first. If free the mutex is obtained. If not, the wrapper  logs a blocked mutex 
+and calls `pthread_mutex_lock()`.
+
+To measure the number of socket blocks, each `accept()` and `send()`/`recv()` 
+wrapper function is preceeded by a test if socket is ready using `select()` on 
+a singleton filedescriptor set. If `select()` determines that the socket is not 
+ready, then a block is recorded.
+
+The server was tested in two modes:
+-   a 'serial' mode, with 50 clients connecting to the server one after another:
+
+    for ((i=0;i<50;i++))
+    do
+        ./client $HOST $PORT < guesses.txt    # run the client to completion
+    done
+
+-   a 'concurrent' mode, with 50 clients connected to the server all at once:
+
+    for ((i=0;i<50;i++))
+    do
+        ./client $HOST $PORT < guesses.txt &  # fork the client in background
+    done
+
+Finally, the server was terminated and the statistics from each logfile
+(acquired using `$ tail -10 log.txt`) are summarised below:
+
+          +===============+================+=========================+
+          | connections   | blocks on a    | context switches        |
+          | number / type | mutex | socket | voluntary | involuntary |
+          +===============+=======+========+===========+=============+
+          | 50 serial     | 0     | 536    | 543       | 7           |
+          +---------------+-------+--------+-----------+-------------+
+          | 50 concurrent | 7     | 547    | 555       | 8           |
+          +---------------+-------+--------+-----------+-------------+
+                                     NeCTAR
+
+          +===============+================+=========================+
+          | connections   | blocks on a    | context switches        |
+          | number / type | mutex | socket | voluntary | involuntary |
+          +===============+=======+========+===========+=============+
+          | 50 serial     | 0     | 551    | 1560      | 2           |
+          +---------------+-------+--------+-----------+-------------+
+          | 50 concurrent | 10    | 527    | 1564      | 5           |
+          +---------------+-------+--------+-----------+-------------+
+                                   digitalis
+
+In all cases, the recorded number of mutex blocks was low. It's comforting that 
+the serial tests resulted in 0 mutex blocks (only one thread is ever logging). 
+In the concurrent case, despite having up to 50 threads communicating at once, 
+attempts to concurrently access the logfile or statistics were relatively rare
+(perhaps due to the speed of writing to the logfile, compared to the larger 
+wait-times of network reads). Further concurrent testing without a network bottleneck (50 concurrent connections from digitalis to digitalis at lower server load time) resulted in 242 mutex blocks!
+
+Socket block numbers were around 10-11 times the number of games processed,
+independent of concurrency. This makes sense as each socket is handled by a 
+single independent thread (except for rare mutex blocks). Further, the factor 
+of 10-11 involved is the number of guesses `recv()`'d during a game (plus 1 for
+an occasionally-blocking `accept()`). Maybe `send()`s are less likely to block 
+due to small messages.
+
+For NeCTAR tests, the number of recorded blocks roughly adds to the number of 
+voluntary context switches. This makes sense since they occur when a thread 
+blocks.
+
+However, in digitalis tests, the number of voluntary context switches was much 
+higher. Missing blocks must have come from functions not tracked by the server. 
+Maybe the network helper functions are calling `send()` or `recv()` multiple 
+times, leading to more blocks that predicted by the preliminary call to 
+`select()` which is recorded.
+
+The number of involuntary context switches was very low in each case, due to 
+the server spending most of its life blocked, with very little intensive 
+processing of client requests.
+
+                                              [493 words SublimeText3:WordCount]

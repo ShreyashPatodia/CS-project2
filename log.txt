@@ -1,0 +1,1698 @@
+(2016-05-26 16:11:46.583802) (server) starting log
+(2016-05-26 16:12:15.584583) (server) connecting to new client (sid 5)(ip 16.2.196.139)
+(2016-05-26 16:12:15.584663) (server) choosing new code for client: FACD
+(2016-05-26 16:12:15.584711) (server) sending message to client (sid 5)(ip 16.2.196.139):Welcome to mastermind, code...
+(2016-05-26 16:12:15.585657) (server) connecting to new client (sid 6)(ip 16.2.196.140)
+(2016-05-26 16:12:15.585709) (server) connecting to new client (sid 7)(ip 16.2.196.141)
+(2016-05-26 16:12:15.585749) (server) receiving new code from client (sid 5)(ip 16.2.196.139):FACE
+(2016-05-26 16:12:15.585967) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.586010) (server) sending hint to client (sid 5)(ip 16.2.196.139):[3:0]
+(2016-05-26 16:12:15.586039) (server) choosing new code for client: FCDE
+(2016-05-26 16:12:15.586087) (server) sending message to client (sid 6)(ip 16.2.196.140):Welcome to mastermind, code...
+(2016-05-26 16:12:15.586143) (server) choosing new code for client: CBFC
+(2016-05-26 16:12:15.586179) (server) sending message to client (sid 7)(ip 16.2.196.141):Welcome to mastermind, code...
+(2016-05-26 16:12:15.587355) (server) receiving new code from client (sid 5)(ip 16.2.196.139):CAFE
+(2016-05-26 16:12:15.587400) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.587422) (server) sending hint to client (sid 5)(ip 16.2.196.139):[1:2]
+(2016-05-26 16:12:15.587445) (server) receiving new code from client (sid 6)(ip 16.2.196.140):FACE
+(2016-05-26 16:12:15.587514) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.587539) (server) sending hint to client (sid 6)(ip 16.2.196.140):[2:1]
+(2016-05-26 16:12:15.587563) (server) receiving new code from client (sid 7)(ip 16.2.196.141):FACE
+(2016-05-26 16:12:15.587610) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.587680) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:2]
+(2016-05-26 16:12:15.587726) (server) connecting to new client (sid 8)(ip 16.2.196.142)
+(2016-05-26 16:12:15.587777) (server) choosing new code for client: FDFD
+(2016-05-26 16:12:15.587810) (server) sending message to client (sid 8)(ip 16.2.196.142):Welcome to mastermind, code...
+(2016-05-26 16:12:15.588782) (server) receiving new code from client (sid 5)(ip 16.2.196.139):FADE
+(2016-05-26 16:12:15.588833) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.588854) (server) sending hint to client (sid 5)(ip 16.2.196.139):[2:1]
+(2016-05-26 16:12:15.589441) (server) receiving new code from client (sid 6)(ip 16.2.196.140):CAFE
+(2016-05-26 16:12:15.589490) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.589513) (server) sending hint to client (sid 6)(ip 16.2.196.140):[1:2]
+(2016-05-26 16:12:15.589541) (server) receiving new code from client (sid 8)(ip 16.2.196.142):FACE
+(2016-05-26 16:12:15.589572) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.589594) (server) sending hint to client (sid 8)(ip 16.2.196.142):[1:0]
+(2016-05-26 16:12:15.589624) (server) receiving new code from client (sid 7)(ip 16.2.196.141):CAFE
+(2016-05-26 16:12:15.589651) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.589673) (server) sending hint to client (sid 7)(ip 16.2.196.141):[2:0]
+(2016-05-26 16:12:15.589695) (server) receiving new code from client (sid 5)(ip 16.2.196.139):ACED
+(2016-05-26 16:12:15.589944) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.590055) (server) sending hint to client (sid 5)(ip 16.2.196.139):[1:2]
+(2016-05-26 16:12:15.591495) (server) receiving new code from client (sid 6)(ip 16.2.196.140):FADE
+(2016-05-26 16:12:15.591709) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.591738) (server) sending hint to client (sid 6)(ip 16.2.196.140):[3:0]
+(2016-05-26 16:12:15.591762) (server) receiving new code from client (sid 8)(ip 16.2.196.142):CAFE
+(2016-05-26 16:12:15.591955) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.591991) (server) sending hint to client (sid 8)(ip 16.2.196.142):[1:0]
+(2016-05-26 16:12:15.592020) (server) receiving new code from client (sid 7)(ip 16.2.196.141):FADE
+(2016-05-26 16:12:15.592045) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.592064) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.592089) (server) receiving new code from client (sid 5)(ip 16.2.196.139):DEAF
+(2016-05-26 16:12:15.592132) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.592189) (server) sending hint to client (sid 5)(ip 16.2.196.139):[0:3]
+(2016-05-26 16:12:15.593558) (server) receiving new code from client (sid 6)(ip 16.2.196.140):ACED
+(2016-05-26 16:12:15.593600) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.593621) (server) sending hint to client (sid 6)(ip 16.2.196.140):[1:2]
+(2016-05-26 16:12:15.593643) (server) receiving new code from client (sid 8)(ip 16.2.196.142):FADE
+(2016-05-26 16:12:15.593668) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.593703) (server) sending hint to client (sid 8)(ip 16.2.196.142):[1:1]
+(2016-05-26 16:12:15.593729) (server) receiving new code from client (sid 7)(ip 16.2.196.141):ACED
+(2016-05-26 16:12:15.593813) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.593845) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.593870) (server) receiving new code from client (sid 5)(ip 16.2.196.139):BEEF
+(2016-05-26 16:12:15.593899) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.593924) (server) sending hint to client (sid 5)(ip 16.2.196.139):[0:1]
+(2016-05-26 16:12:15.593952) (server) connecting to new client (sid 9)(ip 16.2.196.143)
+(2016-05-26 16:12:15.594029) (server) choosing new code for client: DCFB
+(2016-05-26 16:12:15.594116) (server) sending message to client (sid 9)(ip 16.2.196.143):Welcome to mastermind, code...
+(2016-05-26 16:12:15.595198) (server) receiving new code from client (sid 6)(ip 16.2.196.140):DEAF
+(2016-05-26 16:12:15.595243) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.595264) (server) sending hint to client (sid 6)(ip 16.2.196.140):[0:3]
+(2016-05-26 16:12:15.595900) (server) receiving new code from client (sid 8)(ip 16.2.196.142):ACED
+(2016-05-26 16:12:15.595947) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.595969) (server) sending hint to client (sid 8)(ip 16.2.196.142):[1:0]
+(2016-05-26 16:12:15.595993) (server) receiving new code from client (sid 7)(ip 16.2.196.141):DEAF
+(2016-05-26 16:12:15.596045) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.596074) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.596096) (server) receiving new code from client (sid 5)(ip 16.2.196.139):BEAD
+(2016-05-26 16:12:15.596119) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.596136) (server) sending hint to client (sid 5)(ip 16.2.196.139):[1:1]
+(2016-05-26 16:12:15.596158) (server) receiving new code from client (sid 9)(ip 16.2.196.143):FACE
+(2016-05-26 16:12:15.596184) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.596206) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.596233) (server) connecting to new client (sid 10)(ip 16.2.196.144)
+(2016-05-26 16:12:15.596307) (server) choosing new code for client: EDEF
+(2016-05-26 16:12:15.596369) (server) sending message to client (sid 10)(ip 16.2.196.144):Welcome to mastermind, code...
+(2016-05-26 16:12:15.596396) (server) receiving new code from client (sid 6)(ip 16.2.196.140):BEEF
+(2016-05-26 16:12:15.596458) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.596478) (server) sending hint to client (sid 6)(ip 16.2.196.140):[0:2]
+(2016-05-26 16:12:15.597669) (server) connecting to new client (sid 11)(ip 16.2.196.145)
+(2016-05-26 16:12:15.597729) (server) receiving new code from client (sid 8)(ip 16.2.196.142):DEAF
+(2016-05-26 16:12:15.597785) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.597816) (server) sending hint to client (sid 8)(ip 16.2.196.142):[0:2]
+(2016-05-26 16:12:15.597841) (server) receiving new code from client (sid 7)(ip 16.2.196.141):BEEF
+(2016-05-26 16:12:15.597866) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.597928) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:2]
+(2016-05-26 16:12:15.597956) (server) receiving new code from client (sid 5)(ip 16.2.196.139):FEED
+(2016-05-26 16:12:15.597985) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.598030) (server) sending hint to client (sid 5)(ip 16.2.196.139):[2:0]
+(2016-05-26 16:12:15.598058) (server) receiving new code from client (sid 9)(ip 16.2.196.143):CAFE
+(2016-05-26 16:12:15.598085) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.598106) (server) sending hint to client (sid 9)(ip 16.2.196.143):[1:1]
+(2016-05-26 16:12:15.598128) (server) receiving new code from client (sid 10)(ip 16.2.196.144):FACE
+(2016-05-26 16:12:15.598177) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.598235) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:2]
+(2016-05-26 16:12:15.598262) (server) receiving new code from client (sid 6)(ip 16.2.196.140):BEAD
+(2016-05-26 16:12:15.598288) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.598312) (server) sending hint to client (sid 6)(ip 16.2.196.140):[0:2]
+(2016-05-26 16:12:15.598337) (server) choosing new code for client: AFEB
+(2016-05-26 16:12:15.598369) (server) sending message to client (sid 11)(ip 16.2.196.145):Welcome to mastermind, code...
+(2016-05-26 16:12:15.599300) (server) receiving new code from client (sid 8)(ip 16.2.196.142):BEEF
+(2016-05-26 16:12:15.599354) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.599383) (server) sending hint to client (sid 8)(ip 16.2.196.142):[0:1]
+(2016-05-26 16:12:15.599406) (server) receiving new code from client (sid 7)(ip 16.2.196.141):BEAD
+(2016-05-26 16:12:15.599451) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.599479) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.599502) (server) receiving new code from client (sid 5)(ip 16.2.196.139):BADE
+(2016-05-26 16:12:15.599529) (server) sending feedback to client (sid 5)(ip 16.2.196.139):NICETRY
+(2016-05-26 16:12:15.599549) (server) sending hint to client (sid 5)(ip 16.2.196.139):[1:1]
+(2016-05-26 16:12:15.599571) (server) receiving new code from client (sid 9)(ip 16.2.196.143):FADE
+(2016-05-26 16:12:15.599618) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.599649) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.599673) (server) receiving new code from client (sid 10)(ip 16.2.196.144):CAFE
+(2016-05-26 16:12:15.599722) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.599769) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:2]
+(2016-05-26 16:12:15.599794) (server) receiving new code from client (sid 6)(ip 16.2.196.140):FEED
+(2016-05-26 16:12:15.599821) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.599846) (server) sending hint to client (sid 6)(ip 16.2.196.140):[1:2]
+(2016-05-26 16:12:15.599869) (server) receiving new code from client (sid 11)(ip 16.2.196.145):FACE
+(2016-05-26 16:12:15.599906) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.600010) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.601345) (server) connecting to new client (sid 12)(ip 16.2.196.146)
+(2016-05-26 16:12:15.601505) (server) receiving new code from client (sid 8)(ip 16.2.196.142):BEAD
+(2016-05-26 16:12:15.601537) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.601563) (server) sending hint to client (sid 8)(ip 16.2.196.142):[1:0]
+(2016-05-26 16:12:15.601588) (server) receiving new code from client (sid 7)(ip 16.2.196.141):FEED
+(2016-05-26 16:12:15.601613) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.601636) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.601660) (server) receiving new code from client (sid 5)(ip 16.2.196.139):CEDE
+(2016-05-26 16:12:15.601706) (server) sending feedback to client (sid 5)(ip 16.2.196.139):FAILURE
+(2016-05-26 16:12:15.601736) (server) sending hint to client (sid 5)(ip 16.2.196.139):[0:2]
+(2016-05-26 16:12:15.601755) (server) sending secret code to client (sid 5)(ip 16.2.196.139):FACD
+(2016-05-26 16:12:15.601821) (server) receiving new code from client (sid 9)(ip 16.2.196.143):ACED
+(2016-05-26 16:12:15.601850) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.601867) (server) sending hint to client (sid 9)(ip 16.2.196.143):[1:1]
+(2016-05-26 16:12:15.601889) (server) receiving new code from client (sid 10)(ip 16.2.196.144):FADE
+(2016-05-26 16:12:15.601937) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.601965) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:3]
+(2016-05-26 16:12:15.601988) (server) receiving new code from client (sid 6)(ip 16.2.196.140):BADE
+(2016-05-26 16:12:15.602013) (server) sending feedback to client (sid 6)(ip 16.2.196.140):NICETRY
+(2016-05-26 16:12:15.602039) (server) sending hint to client (sid 6)(ip 16.2.196.140):[2:0]
+(2016-05-26 16:12:15.602064) (server) receiving new code from client (sid 11)(ip 16.2.196.145):CAFE
+(2016-05-26 16:12:15.602114) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.602142) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.602832) (server) choosing new code for client: BEEF
+(2016-05-26 16:12:15.602869) (server) sending message to client (sid 12)(ip 16.2.196.146):Welcome to mastermind, code...
+(2016-05-26 16:12:15.603969) (server) connecting to new client (sid 5)(ip 16.2.196.147)
+(2016-05-26 16:12:15.604063) (server) receiving new code from client (sid 7)(ip 16.2.196.141):BADE
+(2016-05-26 16:12:15.604144) (server) sending feedback to client (sid 7)(ip 16.2.196.141):NICETRY
+(2016-05-26 16:12:15.604177) (server) sending hint to client (sid 7)(ip 16.2.196.141):[0:1]
+(2016-05-26 16:12:15.604203) (server) receiving new code from client (sid 8)(ip 16.2.196.142):FEED
+(2016-05-26 16:12:15.604257) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.604287) (server) sending hint to client (sid 8)(ip 16.2.196.142):[2:0]
+(2016-05-26 16:12:15.604349) (server) receiving new code from client (sid 10)(ip 16.2.196.144):ACED
+(2016-05-26 16:12:15.604381) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.604405) (server) sending hint to client (sid 10)(ip 16.2.196.144):[1:1]
+(2016-05-26 16:12:15.604428) (server) receiving new code from client (sid 9)(ip 16.2.196.143):DEAF
+(2016-05-26 16:12:15.604479) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.604509) (server) sending hint to client (sid 9)(ip 16.2.196.143):[1:1]
+(2016-05-26 16:12:15.604534) (server) receiving new code from client (sid 6)(ip 16.2.196.140):CEDE
+(2016-05-26 16:12:15.604586) (server) sending feedback to client (sid 6)(ip 16.2.196.140):FAILURE
+(2016-05-26 16:12:15.604616) (server) sending hint to client (sid 6)(ip 16.2.196.140):[2:1]
+(2016-05-26 16:12:15.604636) (server) sending secret code to client (sid 6)(ip 16.2.196.140):FCDE
+(2016-05-26 16:12:15.604750) (server) receiving new code from client (sid 11)(ip 16.2.196.145):FADE
+(2016-05-26 16:12:15.604782) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.604803) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.604830) (server) choosing new code for client: BCFC
+(2016-05-26 16:12:15.604891) (server) sending message to client (sid 5)(ip 16.2.196.147):Welcome to mastermind, code...
+(2016-05-26 16:12:15.604918) (server) receiving new code from client (sid 12)(ip 16.2.196.146):FACE
+(2016-05-26 16:12:15.604944) (server) sending feedback to client (sid 12)(ip 16.2.196.146):NICETRY
+(2016-05-26 16:12:15.604964) (server) sending hint to client (sid 12)(ip 16.2.196.146):[0:2]
+(2016-05-26 16:12:15.606983) (server) receiving new code from client (sid 7)(ip 16.2.196.141):CEDE
+(2016-05-26 16:12:15.607047) (server) sending feedback to client (sid 7)(ip 16.2.196.141):FAILURE
+(2016-05-26 16:12:15.607083) (server) sending hint to client (sid 7)(ip 16.2.196.141):[1:0]
+(2016-05-26 16:12:15.607098) (server) sending secret code to client (sid 7)(ip 16.2.196.141):CBFC
+(2016-05-26 16:12:15.608890) (server) receiving new code from client (sid 8)(ip 16.2.196.142):BADE
+(2016-05-26 16:12:15.608936) (server) sending feedback to client (sid 8)(ip 16.2.196.142):NICETRY
+(2016-05-26 16:12:15.608959) (server) sending hint to client (sid 8)(ip 16.2.196.142):[0:1]
+(2016-05-26 16:12:15.608989) (server) connecting to new client (sid 6)(ip 16.2.196.148)
+(2016-05-26 16:12:15.609038) (server) receiving new code from client (sid 10)(ip 16.2.196.144):DEAF
+(2016-05-26 16:12:15.609067) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.609092) (server) sending hint to client (sid 10)(ip 16.2.196.144):[1:2]
+(2016-05-26 16:12:15.609117) (server) receiving new code from client (sid 9)(ip 16.2.196.143):BEEF
+(2016-05-26 16:12:15.609166) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.609193) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.609215) (server) receiving new code from client (sid 11)(ip 16.2.196.145):ACED
+(2016-05-26 16:12:15.609240) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.609259) (server) sending hint to client (sid 11)(ip 16.2.196.145):[2:0]
+(2016-05-26 16:12:15.609282) (server) receiving new code from client (sid 5)(ip 16.2.196.147):FACE
+(2016-05-26 16:12:15.609328) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.609356) (server) sending hint to client (sid 5)(ip 16.2.196.147):[0:2]
+(2016-05-26 16:12:15.609377) (server) receiving new code from client (sid 12)(ip 16.2.196.146):CAFE
+(2016-05-26 16:12:15.609402) (server) sending feedback to client (sid 12)(ip 16.2.196.146):NICETRY
+(2016-05-26 16:12:15.609427) (server) sending hint to client (sid 12)(ip 16.2.196.146):[0:2]
+(2016-05-26 16:12:15.609454) (server) choosing new code for client: AECF
+(2016-05-26 16:12:15.609511) (server) sending message to client (sid 6)(ip 16.2.196.148):Welcome to mastermind, code...
+(2016-05-26 16:12:15.611658) (server) connecting to new client (sid 7)(ip 16.2.196.149)
+(2016-05-26 16:12:15.611722) (server) receiving new code from client (sid 8)(ip 16.2.196.142):CEDE
+(2016-05-26 16:12:15.611775) (server) sending feedback to client (sid 8)(ip 16.2.196.142):FAILURE
+(2016-05-26 16:12:15.611808) (server) sending hint to client (sid 8)(ip 16.2.196.142):[0:1]
+(2016-05-26 16:12:15.611827) (server) sending secret code to client (sid 8)(ip 16.2.196.142):FDFD
+(2016-05-26 16:12:15.611883) (server) receiving new code from client (sid 10)(ip 16.2.196.144):BEEF
+(2016-05-26 16:12:15.611912) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.611937) (server) sending hint to client (sid 10)(ip 16.2.196.144):[2:1]
+(2016-05-26 16:12:15.611963) (server) receiving new code from client (sid 9)(ip 16.2.196.143):BEAD
+(2016-05-26 16:12:15.612064) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.612085) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.612106) (server) receiving new code from client (sid 11)(ip 16.2.196.145):DEAF
+(2016-05-26 16:12:15.612131) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.612151) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.612172) (server) receiving new code from client (sid 5)(ip 16.2.196.147):CAFE
+(2016-05-26 16:12:15.612198) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.612223) (server) sending hint to client (sid 5)(ip 16.2.196.147):[1:1]
+(2016-05-26 16:12:15.612247) (server) receiving new code from client (sid 12)(ip 16.2.196.146):FADE
+(2016-05-26 16:12:15.612299) (server) sending feedback to client (sid 12)(ip 16.2.196.146):NICETRY
+(2016-05-26 16:12:15.612330) (server) sending hint to client (sid 12)(ip 16.2.196.146):[0:2]
+(2016-05-26 16:12:15.612364) (server) receiving new code from client (sid 6)(ip 16.2.196.148):FACE
+(2016-05-26 16:12:15.612390) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.612414) (server) sending hint to client (sid 6)(ip 16.2.196.148):[1:3]
+(2016-05-26 16:12:15.612440) (server) choosing new code for client: EBAC
+(2016-05-26 16:12:15.612468) (server) sending message to client (sid 7)(ip 16.2.196.149):Welcome to mastermind, code...
+(2016-05-26 16:12:15.612493) (server) connecting to new client (sid 8)(ip 16.2.196.150)
+(2016-05-26 16:12:15.612553) (server) choosing new code for client: EABD
+(2016-05-26 16:12:15.612582) (server) sending message to client (sid 8)(ip 16.2.196.150):Welcome to mastermind, code...
+(2016-05-26 16:12:15.614466) (server) receiving new code from client (sid 10)(ip 16.2.196.144):BEAD
+(2016-05-26 16:12:15.614508) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.614530) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:2]
+(2016-05-26 16:12:15.614557) (server) receiving new code from client (sid 8)(ip 16.2.196.150):FACE
+(2016-05-26 16:12:15.614584) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.614605) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:1]
+(2016-05-26 16:12:15.614628) (server) receiving new code from client (sid 11)(ip 16.2.196.145):BEEF
+(2016-05-26 16:12:15.614678) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.614710) (server) sending hint to client (sid 11)(ip 16.2.196.145):[1:2]
+(2016-05-26 16:12:15.614735) (server) receiving new code from client (sid 9)(ip 16.2.196.143):FEED
+(2016-05-26 16:12:15.614759) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.614784) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.614806) (server) receiving new code from client (sid 5)(ip 16.2.196.147):FADE
+(2016-05-26 16:12:15.614857) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.614886) (server) sending hint to client (sid 5)(ip 16.2.196.147):[0:1]
+(2016-05-26 16:12:15.614908) (server) receiving new code from client (sid 12)(ip 16.2.196.146):ACED
+(2016-05-26 16:12:15.614933) (server) sending feedback to client (sid 12)(ip 16.2.196.146):NICETRY
+(2016-05-26 16:12:15.614953) (server) sending hint to client (sid 12)(ip 16.2.196.146):[1:0]
+(2016-05-26 16:12:15.614973) (server) receiving new code from client (sid 6)(ip 16.2.196.148):CAFE
+(2016-05-26 16:12:15.614998) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.615022) (server) sending hint to client (sid 6)(ip 16.2.196.148):[0:4]
+(2016-05-26 16:12:15.615049) (server) connecting to new client (sid 13)(ip 16.2.196.151)
+(2016-05-26 16:12:15.615150) (server) choosing new code for client: EDAA
+(2016-05-26 16:12:15.615215) (server) sending message to client (sid 13)(ip 16.2.196.151):Welcome to mastermind, code...
+(2016-05-26 16:12:15.616406) (server) receiving new code from client (sid 7)(ip 16.2.196.149):FACE
+(2016-05-26 16:12:15.616450) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.616472) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:3]
+(2016-05-26 16:12:15.616530) (server) receiving new code from client (sid 10)(ip 16.2.196.144):FEED
+(2016-05-26 16:12:15.616561) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.616581) (server) sending hint to client (sid 10)(ip 16.2.196.144):[1:3]
+(2016-05-26 16:12:15.616604) (server) receiving new code from client (sid 8)(ip 16.2.196.150):CAFE
+(2016-05-26 16:12:15.616650) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.616679) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:1]
+(2016-05-26 16:12:15.616700) (server) receiving new code from client (sid 11)(ip 16.2.196.145):BEAD
+(2016-05-26 16:12:15.616725) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.616745) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.617614) (server) receiving new code from client (sid 13)(ip 16.2.196.151):FACE
+(2016-05-26 16:12:15.617652) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.617677) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:2]
+(2016-05-26 16:12:15.617701) (server) receiving new code from client (sid 9)(ip 16.2.196.143):BADE
+(2016-05-26 16:12:15.617734) (server) sending feedback to client (sid 9)(ip 16.2.196.143):NICETRY
+(2016-05-26 16:12:15.617768) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.618407) (server) receiving new code from client (sid 5)(ip 16.2.196.147):ACED
+(2016-05-26 16:12:15.618445) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.618466) (server) sending hint to client (sid 5)(ip 16.2.196.147):[1:0]
+(2016-05-26 16:12:15.618490) (server) receiving new code from client (sid 12)(ip 16.2.196.146):DEAF
+(2016-05-26 16:12:15.618516) (server) sending feedback to client (sid 12)(ip 16.2.196.146):NICETRY
+(2016-05-26 16:12:15.618541) (server) sending hint to client (sid 12)(ip 16.2.196.146):[2:0]
+(2016-05-26 16:12:15.618567) (server) receiving new code from client (sid 6)(ip 16.2.196.148):FADE
+(2016-05-26 16:12:15.618593) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.618612) (server) sending hint to client (sid 6)(ip 16.2.196.148):[0:3]
+(2016-05-26 16:12:15.618636) (server) receiving new code from client (sid 7)(ip 16.2.196.149):CAFE
+(2016-05-26 16:12:15.618688) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.618774) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:3]
+(2016-05-26 16:12:15.618797) (server) receiving new code from client (sid 10)(ip 16.2.196.144):BADE
+(2016-05-26 16:12:15.618825) (server) sending feedback to client (sid 10)(ip 16.2.196.144):NICETRY
+(2016-05-26 16:12:15.618846) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:2]
+(2016-05-26 16:12:15.618866) (server) receiving new code from client (sid 8)(ip 16.2.196.150):FADE
+(2016-05-26 16:12:15.618890) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.618907) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:2]
+(2016-05-26 16:12:15.618933) (server) receiving new code from client (sid 11)(ip 16.2.196.145):FEED
+(2016-05-26 16:12:15.618957) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.618977) (server) sending hint to client (sid 11)(ip 16.2.196.145):[1:1]
+(2016-05-26 16:12:15.619001) (server) receiving new code from client (sid 13)(ip 16.2.196.151):CAFE
+(2016-05-26 16:12:15.619025) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.619084) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:2]
+(2016-05-26 16:12:15.619140) (server) receiving new code from client (sid 9)(ip 16.2.196.143):CEDE
+(2016-05-26 16:12:15.619167) (server) sending feedback to client (sid 9)(ip 16.2.196.143):FAILURE
+(2016-05-26 16:12:15.619185) (server) sending hint to client (sid 9)(ip 16.2.196.143):[0:2]
+(2016-05-26 16:12:15.619200) (server) sending secret code to client (sid 9)(ip 16.2.196.143):DCFB
+(2016-05-26 16:12:15.619272) (server) connecting to new client (sid 9)(ip 16.2.196.152)
+(2016-05-26 16:12:15.619321) (server) choosing new code for client: FDED
+(2016-05-26 16:12:15.619352) (server) sending message to client (sid 9)(ip 16.2.196.152):Welcome to mastermind, code...
+(2016-05-26 16:12:15.620593) (server) connecting to new client (sid 14)(ip 16.2.196.153)
+(2016-05-26 16:12:15.620650) (server) receiving new code from client (sid 5)(ip 16.2.196.147):DEAF
+(2016-05-26 16:12:15.620678) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.620697) (server) sending hint to client (sid 5)(ip 16.2.196.147):[0:1]
+(2016-05-26 16:12:15.620718) (server) receiving new code from client (sid 12)(ip 16.2.196.146):BEEF
+(2016-05-26 16:12:15.620757) (server) sending feedback to client (sid 12)(ip 16.2.196.146):CORRECT
+(2016-05-26 16:12:15.620809) (server) receiving new code from client (sid 6)(ip 16.2.196.148):ACED
+(2016-05-26 16:12:15.620851) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.620892) (server) sending hint to client (sid 6)(ip 16.2.196.148):[1:2]
+(2016-05-26 16:12:15.620921) (server) receiving new code from client (sid 7)(ip 16.2.196.149):FADE
+(2016-05-26 16:12:15.620971) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.621001) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:2]
+(2016-05-26 16:12:15.621024) (server) receiving new code from client (sid 10)(ip 16.2.196.144):CEDE
+(2016-05-26 16:12:15.621049) (server) sending feedback to client (sid 10)(ip 16.2.196.144):FAILURE
+(2016-05-26 16:12:15.621070) (server) sending hint to client (sid 10)(ip 16.2.196.144):[0:3]
+(2016-05-26 16:12:15.621084) (server) sending secret code to client (sid 10)(ip 16.2.196.144):EDEF
+(2016-05-26 16:12:15.621144) (server) receiving new code from client (sid 8)(ip 16.2.196.150):ACED
+(2016-05-26 16:12:15.621171) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.621189) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:2]
+(2016-05-26 16:12:15.622497) (server) receiving new code from client (sid 11)(ip 16.2.196.145):BADE
+(2016-05-26 16:12:15.622540) (server) sending feedback to client (sid 11)(ip 16.2.196.145):NICETRY
+(2016-05-26 16:12:15.622561) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:3]
+(2016-05-26 16:12:15.622585) (server) receiving new code from client (sid 13)(ip 16.2.196.151):FADE
+(2016-05-26 16:12:15.622613) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.622635) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:3]
+(2016-05-26 16:12:15.623855) (server) receiving new code from client (sid 9)(ip 16.2.196.152):FACE
+(2016-05-26 16:12:15.623911) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.623944) (server) sending hint to client (sid 9)(ip 16.2.196.152):[1:1]
+(2016-05-26 16:12:15.624836) (server) choosing new code for client: DDDA
+(2016-05-26 16:12:15.624877) (server) sending message to client (sid 14)(ip 16.2.196.153):Welcome to mastermind, code...
+(2016-05-26 16:12:15.625488) (server) connecting to new client (sid 10)(ip 16.2.196.154)
+(2016-05-26 16:12:15.625543) (server) connecting to new client (sid 12)(ip 16.2.196.155)
+(2016-05-26 16:12:15.625577) (server) connecting to new client (sid 15)(ip 16.2.196.156)
+(2016-05-26 16:12:15.625616) (server) receiving new code from client (sid 5)(ip 16.2.196.147):BEEF
+(2016-05-26 16:12:15.625646) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.625737) (server) sending hint to client (sid 5)(ip 16.2.196.147):[1:1]
+(2016-05-26 16:12:15.627096) (server) receiving new code from client (sid 6)(ip 16.2.196.148):DEAF
+(2016-05-26 16:12:15.627148) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.627188) (server) sending hint to client (sid 6)(ip 16.2.196.148):[2:1]
+(2016-05-26 16:12:15.627713) (server) receiving new code from client (sid 7)(ip 16.2.196.149):ACED
+(2016-05-26 16:12:15.627761) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.627783) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:3]
+(2016-05-26 16:12:15.627808) (server) receiving new code from client (sid 8)(ip 16.2.196.150):DEAF
+(2016-05-26 16:12:15.627835) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.627855) (server) sending hint to client (sid 8)(ip 16.2.196.150):[0:3]
+(2016-05-26 16:12:15.627880) (server) receiving new code from client (sid 11)(ip 16.2.196.145):CEDE
+(2016-05-26 16:12:15.627926) (server) sending feedback to client (sid 11)(ip 16.2.196.145):FAILURE
+(2016-05-26 16:12:15.627966) (server) sending hint to client (sid 11)(ip 16.2.196.145):[0:1]
+(2016-05-26 16:12:15.627987) (server) sending secret code to client (sid 11)(ip 16.2.196.145):AFEB
+(2016-05-26 16:12:15.628060) (server) receiving new code from client (sid 13)(ip 16.2.196.151):ACED
+(2016-05-26 16:12:15.628091) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.628112) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:3]
+(2016-05-26 16:12:15.628134) (server) receiving new code from client (sid 9)(ip 16.2.196.152):CAFE
+(2016-05-26 16:12:15.628162) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.628212) (server) sending hint to client (sid 9)(ip 16.2.196.152):[0:2]
+(2016-05-26 16:12:15.628246) (server) choosing new code for client: BAFB
+(2016-05-26 16:12:15.628279) (server) sending message to client (sid 10)(ip 16.2.196.154):Welcome to mastermind, code...
+(2016-05-26 16:12:15.628309) (server) choosing new code for client: FBAE
+(2016-05-26 16:12:15.628369) (server) sending message to client (sid 12)(ip 16.2.196.155):Welcome to mastermind, code...
+(2016-05-26 16:12:15.628397) (server) choosing new code for client: AFDF
+(2016-05-26 16:12:15.628465) (server) sending message to client (sid 15)(ip 16.2.196.156):Welcome to mastermind, code...
+(2016-05-26 16:12:15.628490) (server) receiving new code from client (sid 14)(ip 16.2.196.153):FACE
+(2016-05-26 16:12:15.628513) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.628539) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:1]
+(2016-05-26 16:12:15.628562) (server) receiving new code from client (sid 5)(ip 16.2.196.147):BEAD
+(2016-05-26 16:12:15.628588) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.628606) (server) sending hint to client (sid 5)(ip 16.2.196.147):[1:0]
+(2016-05-26 16:12:15.628626) (server) receiving new code from client (sid 6)(ip 16.2.196.148):BEEF
+(2016-05-26 16:12:15.628651) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.628703) (server) sending hint to client (sid 6)(ip 16.2.196.148):[2:0]
+(2016-05-26 16:12:15.629929) (server) connecting to new client (sid 11)(ip 16.2.196.157)
+(2016-05-26 16:12:15.630001) (server) receiving new code from client (sid 7)(ip 16.2.196.149):DEAF
+(2016-05-26 16:12:15.630032) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.630053) (server) sending hint to client (sid 7)(ip 16.2.196.149):[1:1]
+(2016-05-26 16:12:15.630076) (server) receiving new code from client (sid 8)(ip 16.2.196.150):BEEF
+(2016-05-26 16:12:15.630126) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.630159) (server) sending hint to client (sid 8)(ip 16.2.196.150):[0:2]
+(2016-05-26 16:12:15.630187) (server) receiving new code from client (sid 13)(ip 16.2.196.151):DEAF
+(2016-05-26 16:12:15.630247) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.630277) (server) sending hint to client (sid 13)(ip 16.2.196.151):[1:2]
+(2016-05-26 16:12:15.630303) (server) receiving new code from client (sid 9)(ip 16.2.196.152):FADE
+(2016-05-26 16:12:15.630326) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.630348) (server) sending hint to client (sid 9)(ip 16.2.196.152):[1:2]
+(2016-05-26 16:12:15.630371) (server) receiving new code from client (sid 12)(ip 16.2.196.155):FACE
+(2016-05-26 16:12:15.630404) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.630448) (server) sending hint to client (sid 12)(ip 16.2.196.155):[2:1]
+(2016-05-26 16:12:15.630472) (server) receiving new code from client (sid 10)(ip 16.2.196.154):FACE
+(2016-05-26 16:12:15.630503) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.630578) (server) sending hint to client (sid 10)(ip 16.2.196.154):[1:1]
+(2016-05-26 16:12:15.630604) (server) receiving new code from client (sid 14)(ip 16.2.196.153):CAFE
+(2016-05-26 16:12:15.630649) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.630677) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:1]
+(2016-05-26 16:12:15.630706) (server) choosing new code for client: CBFC
+(2016-05-26 16:12:15.630737) (server) sending message to client (sid 11)(ip 16.2.196.157):Welcome to mastermind, code...
+(2016-05-26 16:12:15.631947) (server) connecting to new client (sid 16)(ip 16.2.196.158)
+(2016-05-26 16:12:15.632010) (server) receiving new code from client (sid 7)(ip 16.2.196.149):BEEF
+(2016-05-26 16:12:15.632076) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.632103) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:2]
+(2016-05-26 16:12:15.632126) (server) receiving new code from client (sid 8)(ip 16.2.196.150):BEAD
+(2016-05-26 16:12:15.632160) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.632194) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:3]
+(2016-05-26 16:12:15.632218) (server) receiving new code from client (sid 13)(ip 16.2.196.151):BEEF
+(2016-05-26 16:12:15.632268) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.632299) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:1]
+(2016-05-26 16:12:15.632322) (server) receiving new code from client (sid 9)(ip 16.2.196.152):ACED
+(2016-05-26 16:12:15.632349) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.632386) (server) sending hint to client (sid 9)(ip 16.2.196.152):[2:0]
+(2016-05-26 16:12:15.632417) (server) receiving new code from client (sid 12)(ip 16.2.196.155):CAFE
+(2016-05-26 16:12:15.632469) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.632505) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:2]
+(2016-05-26 16:12:15.634097) (server) receiving new code from client (sid 5)(ip 16.2.196.147):FEED
+(2016-05-26 16:12:15.634137) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.634158) (server) sending hint to client (sid 5)(ip 16.2.196.147):[0:1]
+(2016-05-26 16:12:15.634182) (server) receiving new code from client (sid 15)(ip 16.2.196.156):FACE
+(2016-05-26 16:12:15.634213) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.634232) (server) sending hint to client (sid 15)(ip 16.2.196.156):[0:2]
+(2016-05-26 16:12:15.634255) (server) receiving new code from client (sid 6)(ip 16.2.196.148):BEAD
+(2016-05-26 16:12:15.634304) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.634333) (server) sending hint to client (sid 6)(ip 16.2.196.148):[1:1]
+(2016-05-26 16:12:15.634364) (server) choosing new code for client: BDCF
+(2016-05-26 16:12:15.634393) (server) sending message to client (sid 16)(ip 16.2.196.158):Welcome to mastermind, code...
+(2016-05-26 16:12:15.634453) (server) receiving new code from client (sid 7)(ip 16.2.196.149):BEAD
+(2016-05-26 16:12:15.634502) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.634529) (server) sending hint to client (sid 7)(ip 16.2.196.149):[1:2]
+(2016-05-26 16:12:15.634549) (server) receiving new code from client (sid 8)(ip 16.2.196.150):FEED
+(2016-05-26 16:12:15.634573) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.634592) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:1]
+(2016-05-26 16:12:15.634627) (server) connecting to new client (sid 17)(ip 16.2.196.159)
+(2016-05-26 16:12:15.634681) (server) receiving new code from client (sid 10)(ip 16.2.196.154):CAFE
+(2016-05-26 16:12:15.634733) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.634796) (server) sending hint to client (sid 10)(ip 16.2.196.154):[2:0]
+(2016-05-26 16:12:15.634822) (server) receiving new code from client (sid 14)(ip 16.2.196.153):FADE
+(2016-05-26 16:12:15.634868) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.634893) (server) sending hint to client (sid 14)(ip 16.2.196.153):[1:1]
+(2016-05-26 16:12:15.634916) (server) receiving new code from client (sid 13)(ip 16.2.196.151):BEAD
+(2016-05-26 16:12:15.634970) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.634999) (server) sending hint to client (sid 13)(ip 16.2.196.151):[1:2]
+(2016-05-26 16:12:15.635019) (server) receiving new code from client (sid 11)(ip 16.2.196.157):FACE
+(2016-05-26 16:12:15.635043) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.635062) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:2]
+(2016-05-26 16:12:15.635086) (server) receiving new code from client (sid 12)(ip 16.2.196.155):FADE
+(2016-05-26 16:12:15.635115) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.635134) (server) sending hint to client (sid 12)(ip 16.2.196.155):[2:1]
+(2016-05-26 16:12:15.635161) (server) choosing new code for client: EDBA
+(2016-05-26 16:12:15.635220) (server) sending message to client (sid 17)(ip 16.2.196.159):Welcome to mastermind, code...
+(2016-05-26 16:12:15.636378) (server) receiving new code from client (sid 5)(ip 16.2.196.147):BADE
+(2016-05-26 16:12:15.636449) (server) sending feedback to client (sid 5)(ip 16.2.196.147):NICETRY
+(2016-05-26 16:12:15.636486) (server) sending hint to client (sid 5)(ip 16.2.196.147):[1:0]
+(2016-05-26 16:12:15.637204) (server) receiving new code from client (sid 15)(ip 16.2.196.156):CAFE
+(2016-05-26 16:12:15.637242) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.637262) (server) sending hint to client (sid 15)(ip 16.2.196.156):[0:2]
+(2016-05-26 16:12:15.637291) (server) receiving new code from client (sid 6)(ip 16.2.196.148):FEED
+(2016-05-26 16:12:15.637343) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.637389) (server) sending hint to client (sid 6)(ip 16.2.196.148):[1:1]
+(2016-05-26 16:12:15.637414) (server) receiving new code from client (sid 9)(ip 16.2.196.152):DEAF
+(2016-05-26 16:12:15.637440) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.637459) (server) sending hint to client (sid 9)(ip 16.2.196.152):[0:3]
+(2016-05-26 16:12:15.637480) (server) receiving new code from client (sid 7)(ip 16.2.196.149):FEED
+(2016-05-26 16:12:15.637505) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.637526) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:1]
+(2016-05-26 16:12:15.637549) (server) receiving new code from client (sid 16)(ip 16.2.196.158):FACE
+(2016-05-26 16:12:15.637659) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.637697) (server) sending hint to client (sid 16)(ip 16.2.196.158):[1:1]
+(2016-05-26 16:12:15.637753) (server) receiving new code from client (sid 8)(ip 16.2.196.150):BADE
+(2016-05-26 16:12:15.637783) (server) sending feedback to client (sid 8)(ip 16.2.196.150):NICETRY
+(2016-05-26 16:12:15.637808) (server) sending hint to client (sid 8)(ip 16.2.196.150):[1:3]
+(2016-05-26 16:12:15.637835) (server) connecting to new client (sid 18)(ip 16.2.196.160)
+(2016-05-26 16:12:15.637883) (server) receiving new code from client (sid 10)(ip 16.2.196.154):FADE
+(2016-05-26 16:12:15.637912) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.637936) (server) sending hint to client (sid 10)(ip 16.2.196.154):[1:1]
+(2016-05-26 16:12:15.637958) (server) receiving new code from client (sid 14)(ip 16.2.196.153):ACED
+(2016-05-26 16:12:15.637983) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.638009) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:2]
+(2016-05-26 16:12:15.638033) (server) receiving new code from client (sid 13)(ip 16.2.196.151):FEED
+(2016-05-26 16:12:15.638082) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.638113) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:2]
+(2016-05-26 16:12:15.638138) (server) receiving new code from client (sid 11)(ip 16.2.196.157):CAFE
+(2016-05-26 16:12:15.638167) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.638192) (server) sending hint to client (sid 11)(ip 16.2.196.157):[2:0]
+(2016-05-26 16:12:15.638215) (server) receiving new code from client (sid 12)(ip 16.2.196.155):ACED
+(2016-05-26 16:12:15.638264) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.638292) (server) sending hint to client (sid 12)(ip 16.2.196.155):[0:2]
+(2016-05-26 16:12:15.638314) (server) receiving new code from client (sid 5)(ip 16.2.196.147):CEDE
+(2016-05-26 16:12:15.638339) (server) sending feedback to client (sid 5)(ip 16.2.196.147):FAILURE
+(2016-05-26 16:12:15.638363) (server) sending hint to client (sid 5)(ip 16.2.196.147):[0:1]
+(2016-05-26 16:12:15.638380) (server) sending secret code to client (sid 5)(ip 16.2.196.147):BCFC
+(2016-05-26 16:12:15.638442) (server) receiving new code from client (sid 17)(ip 16.2.196.159):FACE
+(2016-05-26 16:12:15.638471) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.638533) (server) choosing new code for client: ACDC
+(2016-05-26 16:12:15.638594) (server) sending message to client (sid 18)(ip 16.2.196.160):Welcome to mastermind, code...
+(2016-05-26 16:12:15.640012) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:2]
+(2016-05-26 16:12:15.640047) (server) receiving new code from client (sid 15)(ip 16.2.196.156):FADE
+(2016-05-26 16:12:15.640072) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.640088) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:2]
+(2016-05-26 16:12:15.640114) (server) connecting to new client (sid 5)(ip 16.2.196.161)
+(2016-05-26 16:12:15.640160) (server) receiving new code from client (sid 6)(ip 16.2.196.148):BADE
+(2016-05-26 16:12:15.640189) (server) sending feedback to client (sid 6)(ip 16.2.196.148):NICETRY
+(2016-05-26 16:12:15.640248) (server) sending hint to client (sid 6)(ip 16.2.196.148):[0:2]
+(2016-05-26 16:12:15.640275) (server) receiving new code from client (sid 9)(ip 16.2.196.152):BEEF
+(2016-05-26 16:12:15.640303) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.640328) (server) sending hint to client (sid 9)(ip 16.2.196.152):[1:1]
+(2016-05-26 16:12:15.640355) (server) receiving new code from client (sid 7)(ip 16.2.196.149):BADE
+(2016-05-26 16:12:15.640382) (server) sending feedback to client (sid 7)(ip 16.2.196.149):NICETRY
+(2016-05-26 16:12:15.640406) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:3]
+(2016-05-26 16:12:15.640430) (server) receiving new code from client (sid 16)(ip 16.2.196.158):CAFE
+(2016-05-26 16:12:15.640508) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.640540) (server) sending hint to client (sid 16)(ip 16.2.196.158):[0:2]
+(2016-05-26 16:12:15.640566) (server) receiving new code from client (sid 8)(ip 16.2.196.150):CEDE
+(2016-05-26 16:12:15.640592) (server) sending feedback to client (sid 8)(ip 16.2.196.150):FAILURE
+(2016-05-26 16:12:15.640612) (server) sending hint to client (sid 8)(ip 16.2.196.150):[0:2]
+(2016-05-26 16:12:15.640629) (server) sending secret code to client (sid 8)(ip 16.2.196.150):EABD
+(2016-05-26 16:12:15.640686) (server) receiving new code from client (sid 10)(ip 16.2.196.154):ACED
+(2016-05-26 16:12:15.640740) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.640771) (server) sending hint to client (sid 10)(ip 16.2.196.154):[0:1]
+(2016-05-26 16:12:15.640793) (server) receiving new code from client (sid 14)(ip 16.2.196.153):DEAF
+(2016-05-26 16:12:15.640843) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.640874) (server) sending hint to client (sid 14)(ip 16.2.196.153):[1:1]
+(2016-05-26 16:12:15.640897) (server) receiving new code from client (sid 13)(ip 16.2.196.151):BADE
+(2016-05-26 16:12:15.640922) (server) sending feedback to client (sid 13)(ip 16.2.196.151):NICETRY
+(2016-05-26 16:12:15.640943) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:3]
+(2016-05-26 16:12:15.640967) (server) receiving new code from client (sid 11)(ip 16.2.196.157):FADE
+(2016-05-26 16:12:15.640993) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.641018) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.641040) (server) receiving new code from client (sid 12)(ip 16.2.196.155):DEAF
+(2016-05-26 16:12:15.641088) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.641116) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:2]
+(2016-05-26 16:12:15.641142) (server) choosing new code for client: AADC
+(2016-05-26 16:12:15.641269) (server) sending message to client (sid 5)(ip 16.2.196.161):Welcome to mastermind, code...
+(2016-05-26 16:12:15.641299) (server) receiving new code from client (sid 18)(ip 16.2.196.160):FACE
+(2016-05-26 16:12:15.641328) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.641353) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:2]
+(2016-05-26 16:12:15.642583) (server) receiving new code from client (sid 17)(ip 16.2.196.159):CAFE
+(2016-05-26 16:12:15.642628) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.642657) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:2]
+(2016-05-26 16:12:15.642684) (server) receiving new code from client (sid 15)(ip 16.2.196.156):ACED
+(2016-05-26 16:12:15.642738) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.642768) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:1]
+(2016-05-26 16:12:15.642791) (server) receiving new code from client (sid 6)(ip 16.2.196.148):CEDE
+(2016-05-26 16:12:15.642814) (server) sending feedback to client (sid 6)(ip 16.2.196.148):FAILURE
+(2016-05-26 16:12:15.642833) (server) sending hint to client (sid 6)(ip 16.2.196.148):[1:1]
+(2016-05-26 16:12:15.642853) (server) sending secret code to client (sid 6)(ip 16.2.196.148):AECF
+(2016-05-26 16:12:15.642918) (server) receiving new code from client (sid 9)(ip 16.2.196.152):BEAD
+(2016-05-26 16:12:15.642970) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.643018) (server) sending hint to client (sid 9)(ip 16.2.196.152):[1:1]
+(2016-05-26 16:12:15.643046) (server) receiving new code from client (sid 7)(ip 16.2.196.149):CEDE
+(2016-05-26 16:12:15.643100) (server) sending feedback to client (sid 7)(ip 16.2.196.149):FAILURE
+(2016-05-26 16:12:15.643129) (server) sending hint to client (sid 7)(ip 16.2.196.149):[0:2]
+(2016-05-26 16:12:15.643192) (server) sending secret code to client (sid 7)(ip 16.2.196.149):EBAC
+(2016-05-26 16:12:15.643248) (server) receiving new code from client (sid 16)(ip 16.2.196.158):FADE
+(2016-05-26 16:12:15.643276) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.643308) (server) sending hint to client (sid 16)(ip 16.2.196.158):[0:2]
+(2016-05-26 16:12:15.643332) (server) receiving new code from client (sid 10)(ip 16.2.196.154):DEAF
+(2016-05-26 16:12:15.643359) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.643382) (server) sending hint to client (sid 10)(ip 16.2.196.154):[0:2]
+(2016-05-26 16:12:15.643407) (server) connecting to new client (sid 6)(ip 16.2.196.162)
+(2016-05-26 16:12:15.643467) (server) choosing new code for client: ADCD
+(2016-05-26 16:12:15.643498) (server) sending message to client (sid 6)(ip 16.2.196.162):Welcome to mastermind, code...
+(2016-05-26 16:12:15.643526) (server) connecting to new client (sid 7)(ip 16.2.196.163)
+(2016-05-26 16:12:15.643565) (server) choosing new code for client: CFEE
+(2016-05-26 16:12:15.643594) (server) sending message to client (sid 7)(ip 16.2.196.163):Welcome to mastermind, code...
+(2016-05-26 16:12:15.645477) (server) receiving new code from client (sid 17)(ip 16.2.196.159):FADE
+(2016-05-26 16:12:15.645517) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.645543) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:3]
+(2016-05-26 16:12:15.645570) (server) receiving new code from client (sid 15)(ip 16.2.196.156):DEAF
+(2016-05-26 16:12:15.645596) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.645616) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:2]
+(2016-05-26 16:12:15.645637) (server) receiving new code from client (sid 6)(ip 16.2.196.162):FACE
+(2016-05-26 16:12:15.645690) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.645746) (server) sending hint to client (sid 6)(ip 16.2.196.162):[1:1]
+(2016-05-26 16:12:15.645769) (server) receiving new code from client (sid 14)(ip 16.2.196.153):BEEF
+(2016-05-26 16:12:15.645792) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.645812) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:0]
+(2016-05-26 16:12:15.645835) (server) receiving new code from client (sid 13)(ip 16.2.196.151):CEDE
+(2016-05-26 16:12:15.645878) (server) sending feedback to client (sid 13)(ip 16.2.196.151):FAILURE
+(2016-05-26 16:12:15.645904) (server) sending hint to client (sid 13)(ip 16.2.196.151):[0:2]
+(2016-05-26 16:12:15.645918) (server) sending secret code to client (sid 13)(ip 16.2.196.151):EDAA
+(2016-05-26 16:12:15.645978) (server) receiving new code from client (sid 11)(ip 16.2.196.157):ACED
+(2016-05-26 16:12:15.646023) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.646047) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.646067) (server) receiving new code from client (sid 12)(ip 16.2.196.155):BEEF
+(2016-05-26 16:12:15.646089) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.646108) (server) sending hint to client (sid 12)(ip 16.2.196.155):[0:3]
+(2016-05-26 16:12:15.646134) (server) connecting to new client (sid 8)(ip 16.2.196.164)
+(2016-05-26 16:12:15.646181) (server) choosing new code for client: EFCA
+(2016-05-26 16:12:15.646232) (server) sending message to client (sid 8)(ip 16.2.196.164):Welcome to mastermind, code...
+(2016-05-26 16:12:15.650389) (server) receiving new code from client (sid 17)(ip 16.2.196.159):ACED
+(2016-05-26 16:12:15.650477) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.650517) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:3]
+(2016-05-26 16:12:15.650543) (server) receiving new code from client (sid 8)(ip 16.2.196.164):FACE
+(2016-05-26 16:12:15.650569) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.650657) (server) sending hint to client (sid 8)(ip 16.2.196.164):[1:3]
+(2016-05-26 16:12:15.650686) (server) receiving new code from client (sid 15)(ip 16.2.196.156):BEEF
+(2016-05-26 16:12:15.650735) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.650765) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:0]
+(2016-05-26 16:12:15.650791) (server) receiving new code from client (sid 6)(ip 16.2.196.162):CAFE
+(2016-05-26 16:12:15.650816) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.650835) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:2]
+(2016-05-26 16:12:15.650858) (server) receiving new code from client (sid 5)(ip 16.2.196.161):FACE
+(2016-05-26 16:12:15.650884) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.650903) (server) sending hint to client (sid 5)(ip 16.2.196.161):[1:1]
+(2016-05-26 16:12:15.650927) (server) receiving new code from client (sid 18)(ip 16.2.196.160):CAFE
+(2016-05-26 16:12:15.650969) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.651012) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:2]
+(2016-05-26 16:12:15.651038) (server) receiving new code from client (sid 9)(ip 16.2.196.152):FEED
+(2016-05-26 16:12:15.651063) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.651084) (server) sending hint to client (sid 9)(ip 16.2.196.152):[3:0]
+(2016-05-26 16:12:15.651108) (server) receiving new code from client (sid 16)(ip 16.2.196.158):ACED
+(2016-05-26 16:12:15.651162) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.651192) (server) sending hint to client (sid 16)(ip 16.2.196.158):[0:2]
+(2016-05-26 16:12:15.651215) (server) receiving new code from client (sid 10)(ip 16.2.196.154):BEEF
+(2016-05-26 16:12:15.651242) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.651261) (server) sending hint to client (sid 10)(ip 16.2.196.154):[1:1]
+(2016-05-26 16:12:15.651282) (server) receiving new code from client (sid 7)(ip 16.2.196.163):FACE
+(2016-05-26 16:12:15.651310) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.651328) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:2]
+(2016-05-26 16:12:15.651349) (server) receiving new code from client (sid 14)(ip 16.2.196.153):BEAD
+(2016-05-26 16:12:15.651394) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.651422) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:2]
+(2016-05-26 16:12:15.651446) (server) receiving new code from client (sid 11)(ip 16.2.196.157):DEAF
+(2016-05-26 16:12:15.651473) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.651492) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.651513) (server) receiving new code from client (sid 12)(ip 16.2.196.155):BEAD
+(2016-05-26 16:12:15.651538) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.651557) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:2]
+(2016-05-26 16:12:15.652626) (server) receiving new code from client (sid 17)(ip 16.2.196.159):DEAF
+(2016-05-26 16:12:15.652703) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.652735) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:3]
+(2016-05-26 16:12:15.652758) (server) receiving new code from client (sid 8)(ip 16.2.196.164):CAFE
+(2016-05-26 16:12:15.652783) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.652804) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:4]
+(2016-05-26 16:12:15.652827) (server) receiving new code from client (sid 15)(ip 16.2.196.156):BEAD
+(2016-05-26 16:12:15.652877) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.652965) (server) sending hint to client (sid 15)(ip 16.2.196.156):[0:2]
+(2016-05-26 16:12:15.652994) (server) receiving new code from client (sid 5)(ip 16.2.196.161):CAFE
+(2016-05-26 16:12:15.653022) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.653042) (server) sending hint to client (sid 5)(ip 16.2.196.161):[1:1]
+(2016-05-26 16:12:15.653064) (server) receiving new code from client (sid 18)(ip 16.2.196.160):FADE
+(2016-05-26 16:12:15.653091) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.653111) (server) sending hint to client (sid 18)(ip 16.2.196.160):[1:1]
+(2016-05-26 16:12:15.653133) (server) receiving new code from client (sid 6)(ip 16.2.196.162):FADE
+(2016-05-26 16:12:15.653186) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.653217) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:2]
+(2016-05-26 16:12:15.653244) (server) receiving new code from client (sid 9)(ip 16.2.196.152):BADE
+(2016-05-26 16:12:15.653271) (server) sending feedback to client (sid 9)(ip 16.2.196.152):NICETRY
+(2016-05-26 16:12:15.653291) (server) sending hint to client (sid 9)(ip 16.2.196.152):[0:2]
+(2016-05-26 16:12:15.653318) (server) connecting to new client (sid 13)(ip 16.2.196.165)
+(2016-05-26 16:12:15.653375) (server) choosing new code for client: ADCD
+(2016-05-26 16:12:15.653408) (server) sending message to client (sid 13)(ip 16.2.196.165):Welcome to mastermind, code...
+(2016-05-26 16:12:15.655239) (server) receiving new code from client (sid 13)(ip 16.2.196.165):FACE
+(2016-05-26 16:12:15.655287) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.655309) (server) sending hint to client (sid 13)(ip 16.2.196.165):[1:1]
+(2016-05-26 16:12:15.655338) (server) receiving new code from client (sid 16)(ip 16.2.196.158):DEAF
+(2016-05-26 16:12:15.655390) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.655429) (server) sending hint to client (sid 16)(ip 16.2.196.158):[1:1]
+(2016-05-26 16:12:15.655458) (server) receiving new code from client (sid 10)(ip 16.2.196.154):BEAD
+(2016-05-26 16:12:15.655487) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.655512) (server) sending hint to client (sid 10)(ip 16.2.196.154):[1:1]
+(2016-05-26 16:12:15.655534) (server) receiving new code from client (sid 7)(ip 16.2.196.163):CAFE
+(2016-05-26 16:12:15.655559) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.655594) (server) receiving new code from client (sid 14)(ip 16.2.196.153):FEED
+(2016-05-26 16:12:15.655623) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.655638) (server) sending hint to client (sid 7)(ip 16.2.196.163):[2:1]
+(2016-05-26 16:12:15.655669) (server) sending hint to client (sid 14)(ip 16.2.196.153):[0:1]
+(2016-05-26 16:12:15.655694) (server) receiving new code from client (sid 11)(ip 16.2.196.157):BEEF
+(2016-05-26 16:12:15.655747) (server) receiving new code from client (sid 12)(ip 16.2.196.155):FEED
+(2016-05-26 16:12:15.655786) (server) connecting to new client (sid 19)(ip 16.2.196.166)
+(2016-05-26 16:12:15.655835) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.655882) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.655945) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:2]
+(2016-05-26 16:12:15.655968) (server) choosing new code for client: FDBE
+(2016-05-26 16:12:15.656013) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:1]
+(2016-05-26 16:12:15.656036) (server) sending message to client (sid 19)(ip 16.2.196.166):Welcome to mastermind, code...
+(2016-05-26 16:12:15.657779) (server) receiving new code from client (sid 19)(ip 16.2.196.166):FACE
+(2016-05-26 16:12:15.657823) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.657878) (server) sending hint to client (sid 19)(ip 16.2.196.166):[2:0]
+(2016-05-26 16:12:15.657904) (server) receiving new code from client (sid 17)(ip 16.2.196.159):BEEF
+(2016-05-26 16:12:15.657932) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.657953) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:2]
+(2016-05-26 16:12:15.658812) (server) receiving new code from client (sid 8)(ip 16.2.196.164):FADE
+(2016-05-26 16:12:15.658867) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.658898) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:3]
+(2016-05-26 16:12:15.658940) (server) receiving new code from client (sid 15)(ip 16.2.196.156):FEED
+(2016-05-26 16:12:15.658986) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.659019) (server) sending hint to client (sid 15)(ip 16.2.196.156):[0:2]
+(2016-05-26 16:12:15.659048) (server) receiving new code from client (sid 18)(ip 16.2.196.160):ACED
+(2016-05-26 16:12:15.659098) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.659159) (server) sending hint to client (sid 18)(ip 16.2.196.160):[2:1]
+(2016-05-26 16:12:15.659186) (server) receiving new code from client (sid 5)(ip 16.2.196.161):FADE
+(2016-05-26 16:12:15.659225) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.659257) (server) sending hint to client (sid 5)(ip 16.2.196.161):[2:0]
+(2016-05-26 16:12:15.659279) (server) receiving new code from client (sid 6)(ip 16.2.196.162):ACED
+(2016-05-26 16:12:15.659330) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.659384) (server) sending hint to client (sid 6)(ip 16.2.196.162):[2:1]
+(2016-05-26 16:12:15.659411) (server) connecting to new client (sid 20)(ip 16.2.196.167)
+(2016-05-26 16:12:15.659462) (server) receiving new code from client (sid 9)(ip 16.2.196.152):CEDE
+(2016-05-26 16:12:15.659489) (server) sending feedback to client (sid 9)(ip 16.2.196.152):FAILURE
+(2016-05-26 16:12:15.659512) (server) sending hint to client (sid 9)(ip 16.2.196.152):[0:2]
+(2016-05-26 16:12:15.659528) (server) sending secret code to client (sid 9)(ip 16.2.196.152):FDED
+(2016-05-26 16:12:15.659583) (server) receiving new code from client (sid 13)(ip 16.2.196.165):CAFE
+(2016-05-26 16:12:15.659632) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.659661) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:2]
+(2016-05-26 16:12:15.659687) (server) receiving new code from client (sid 16)(ip 16.2.196.158):BEEF
+(2016-05-26 16:12:15.659712) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.659731) (server) sending hint to client (sid 16)(ip 16.2.196.158):[2:0]
+(2016-05-26 16:12:15.659752) (server) receiving new code from client (sid 10)(ip 16.2.196.154):FEED
+(2016-05-26 16:12:15.659776) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.659800) (server) sending hint to client (sid 10)(ip 16.2.196.154):[0:1]
+(2016-05-26 16:12:15.659822) (server) receiving new code from client (sid 7)(ip 16.2.196.163):FADE
+(2016-05-26 16:12:15.659870) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.659898) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:1]
+(2016-05-26 16:12:15.659919) (server) receiving new code from client (sid 14)(ip 16.2.196.153):BADE
+(2016-05-26 16:12:15.659947) (server) sending feedback to client (sid 14)(ip 16.2.196.153):NICETRY
+(2016-05-26 16:12:15.659966) (server) sending hint to client (sid 14)(ip 16.2.196.153):[1:1]
+(2016-05-26 16:12:15.659987) (server) receiving new code from client (sid 12)(ip 16.2.196.155):BADE
+(2016-05-26 16:12:15.660011) (server) sending feedback to client (sid 12)(ip 16.2.196.155):NICETRY
+(2016-05-26 16:12:15.660030) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:2]
+(2016-05-26 16:12:15.660053) (server) receiving new code from client (sid 11)(ip 16.2.196.157):BEAD
+(2016-05-26 16:12:15.660141) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.660210) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.660238) (server) receiving new code from client (sid 19)(ip 16.2.196.166):CAFE
+(2016-05-26 16:12:15.660267) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.660293) (server) sending hint to client (sid 19)(ip 16.2.196.166):[1:1]
+(2016-05-26 16:12:15.660316) (server) receiving new code from client (sid 17)(ip 16.2.196.159):BEAD
+(2016-05-26 16:12:15.660343) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.660363) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:4]
+(2016-05-26 16:12:15.660395) (server) choosing new code for client: CCAA
+(2016-05-26 16:12:15.660452) (server) sending message to client (sid 20)(ip 16.2.196.167):Welcome to mastermind, code...
+(2016-05-26 16:12:15.660479) (server) receiving new code from client (sid 8)(ip 16.2.196.164):ACED
+(2016-05-26 16:12:15.660503) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.660530) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:3]
+(2016-05-26 16:12:15.660553) (server) receiving new code from client (sid 15)(ip 16.2.196.156):BADE
+(2016-05-26 16:12:15.660598) (server) sending feedback to client (sid 15)(ip 16.2.196.156):NICETRY
+(2016-05-26 16:12:15.660659) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:1]
+(2016-05-26 16:12:15.660686) (server) receiving new code from client (sid 18)(ip 16.2.196.160):DEAF
+(2016-05-26 16:12:15.660711) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.660734) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:2]
+(2016-05-26 16:12:15.660757) (server) receiving new code from client (sid 5)(ip 16.2.196.161):ACED
+(2016-05-26 16:12:15.660783) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.660804) (server) sending hint to client (sid 5)(ip 16.2.196.161):[1:2]
+(2016-05-26 16:12:15.660825) (server) receiving new code from client (sid 6)(ip 16.2.196.162):DEAF
+(2016-05-26 16:12:15.660851) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.660871) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:2]
+(2016-05-26 16:12:15.662210) (server) receiving new code from client (sid 13)(ip 16.2.196.165):FADE
+(2016-05-26 16:12:15.662248) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.662270) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:2]
+(2016-05-26 16:12:15.662294) (server) connecting to new client (sid 9)(ip 16.2.196.168)
+(2016-05-26 16:12:15.662339) (server) connecting to new client (sid 21)(ip 16.2.196.169)
+(2016-05-26 16:12:15.662409) (server) receiving new code from client (sid 11)(ip 16.2.196.157):FEED
+(2016-05-26 16:12:15.662442) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.662465) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.662507) (server) receiving new code from client (sid 17)(ip 16.2.196.159):FEED
+(2016-05-26 16:12:15.662560) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.662588) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:2]
+(2016-05-26 16:12:15.663271) (server) receiving new code from client (sid 19)(ip 16.2.196.166):FADE
+(2016-05-26 16:12:15.663309) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.663334) (server) sending hint to client (sid 19)(ip 16.2.196.166):[2:1]
+(2016-05-26 16:12:15.663358) (server) receiving new code from client (sid 8)(ip 16.2.196.164):DEAF
+(2016-05-26 16:12:15.663384) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.663405) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:3]
+(2016-05-26 16:12:15.663460) (server) receiving new code from client (sid 20)(ip 16.2.196.167):FACE
+(2016-05-26 16:12:15.663510) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.663543) (server) sending hint to client (sid 20)(ip 16.2.196.167):[0:2]
+(2016-05-26 16:12:15.664364) (server) receiving new code from client (sid 15)(ip 16.2.196.156):CEDE
+(2016-05-26 16:12:15.664400) (server) sending feedback to client (sid 15)(ip 16.2.196.156):FAILURE
+(2016-05-26 16:12:15.664422) (server) sending hint to client (sid 15)(ip 16.2.196.156):[1:0]
+(2016-05-26 16:12:15.664438) (server) sending secret code to client (sid 15)(ip 16.2.196.156):AFDF
+(2016-05-26 16:12:15.664500) (server) choosing new code for client: EFBA
+(2016-05-26 16:12:15.664566) (server) sending message to client (sid 9)(ip 16.2.196.168):Welcome to mastermind, code...
+(2016-05-26 16:12:15.664592) (server) receiving new code from client (sid 18)(ip 16.2.196.160):BEEF
+(2016-05-26 16:12:15.664618) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.664638) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:0]
+(2016-05-26 16:12:15.664660) (server) choosing new code for client: DDCF
+(2016-05-26 16:12:15.664722) (server) sending message to client (sid 21)(ip 16.2.196.169):Welcome to mastermind, code...
+(2016-05-26 16:12:15.664746) (server) receiving new code from client (sid 5)(ip 16.2.196.161):DEAF
+(2016-05-26 16:12:15.664775) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.664796) (server) sending hint to client (sid 5)(ip 16.2.196.161):[0:2]
+(2016-05-26 16:12:15.664817) (server) receiving new code from client (sid 6)(ip 16.2.196.162):BEEF
+(2016-05-26 16:12:15.664842) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.664866) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:0]
+(2016-05-26 16:12:15.664899) (server) receiving new code from client (sid 16)(ip 16.2.196.158):BEAD
+(2016-05-26 16:12:15.664947) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.664976) (server) sending hint to client (sid 16)(ip 16.2.196.158):[1:1]
+(2016-05-26 16:12:15.664999) (server) receiving new code from client (sid 10)(ip 16.2.196.154):BADE
+(2016-05-26 16:12:15.665026) (server) sending feedback to client (sid 10)(ip 16.2.196.154):NICETRY
+(2016-05-26 16:12:15.665045) (server) sending hint to client (sid 10)(ip 16.2.196.154):[2:0]
+(2016-05-26 16:12:15.665067) (server) receiving new code from client (sid 7)(ip 16.2.196.163):ACED
+(2016-05-26 16:12:15.665113) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.665139) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:1]
+(2016-05-26 16:12:15.665164) (server) receiving new code from client (sid 14)(ip 16.2.196.153):CEDE
+(2016-05-26 16:12:15.665189) (server) sending feedback to client (sid 14)(ip 16.2.196.153):FAILURE
+(2016-05-26 16:12:15.665207) (server) sending hint to client (sid 14)(ip 16.2.196.153):[1:0]
+(2016-05-26 16:12:15.665221) (server) sending secret code to client (sid 14)(ip 16.2.196.153):DDDA
+(2016-05-26 16:12:15.665285) (server) receiving new code from client (sid 12)(ip 16.2.196.155):CEDE
+(2016-05-26 16:12:15.665336) (server) sending feedback to client (sid 12)(ip 16.2.196.155):FAILURE
+(2016-05-26 16:12:15.665365) (server) sending hint to client (sid 12)(ip 16.2.196.155):[1:0]
+(2016-05-26 16:12:15.665384) (server) sending secret code to client (sid 12)(ip 16.2.196.155):FBAE
+(2016-05-26 16:12:15.665434) (server) receiving new code from client (sid 13)(ip 16.2.196.165):ACED
+(2016-05-26 16:12:15.665466) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.665486) (server) sending hint to client (sid 13)(ip 16.2.196.165):[2:1]
+(2016-05-26 16:12:15.665523) (server) receiving new code from client (sid 11)(ip 16.2.196.157):BADE
+(2016-05-26 16:12:15.665576) (server) sending feedback to client (sid 11)(ip 16.2.196.157):NICETRY
+(2016-05-26 16:12:15.665637) (server) sending hint to client (sid 11)(ip 16.2.196.157):[0:1]
+(2016-05-26 16:12:15.665665) (server) receiving new code from client (sid 17)(ip 16.2.196.159):BADE
+(2016-05-26 16:12:15.665714) (server) sending feedback to client (sid 17)(ip 16.2.196.159):NICETRY
+(2016-05-26 16:12:15.665743) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:4]
+(2016-05-26 16:12:15.665771) (server) connecting to new client (sid 12)(ip 16.2.196.170)
+(2016-05-26 16:12:15.665819) (server) receiving new code from client (sid 19)(ip 16.2.196.166):ACED
+(2016-05-26 16:12:15.665850) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.665874) (server) sending hint to client (sid 19)(ip 16.2.196.166):[0:2]
+(2016-05-26 16:12:15.665895) (server) receiving new code from client (sid 8)(ip 16.2.196.164):BEEF
+(2016-05-26 16:12:15.665921) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.665945) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:2]
+(2016-05-26 16:12:15.665968) (server) receiving new code from client (sid 20)(ip 16.2.196.167):CAFE
+(2016-05-26 16:12:15.666013) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.666040) (server) sending hint to client (sid 20)(ip 16.2.196.167):[1:1]
+(2016-05-26 16:12:15.667228) (server) choosing new code for client: FBBA
+(2016-05-26 16:12:15.667295) (server) sending message to client (sid 12)(ip 16.2.196.170):Welcome to mastermind, code...
+(2016-05-26 16:12:15.668132) (server) receiving new code from client (sid 9)(ip 16.2.196.168):FACE
+(2016-05-26 16:12:15.668169) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.668190) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.668211) (server) receiving new code from client (sid 18)(ip 16.2.196.160):BEAD
+(2016-05-26 16:12:15.668236) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.668253) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:2]
+(2016-05-26 16:12:15.669476) (server) connecting to new client (sid 14)(ip 16.2.196.171)
+(2016-05-26 16:12:15.669541) (server) connecting to new client (sid 15)(ip 16.2.196.172)
+(2016-05-26 16:12:15.669589) (server) receiving new code from client (sid 21)(ip 16.2.196.169):FACE
+(2016-05-26 16:12:15.669644) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.669668) (server) sending hint to client (sid 21)(ip 16.2.196.169):[1:1]
+(2016-05-26 16:12:15.669691) (server) receiving new code from client (sid 5)(ip 16.2.196.161):BEEF
+(2016-05-26 16:12:15.669720) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.669744) (server) sending hint to client (sid 5)(ip 16.2.196.161):[0:0]
+(2016-05-26 16:12:15.669769) (server) receiving new code from client (sid 6)(ip 16.2.196.162):BEAD
+(2016-05-26 16:12:15.669873) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.669938) (server) sending hint to client (sid 6)(ip 16.2.196.162):[1:1]
+(2016-05-26 16:12:15.669967) (server) receiving new code from client (sid 17)(ip 16.2.196.159):CEDE
+(2016-05-26 16:12:15.670000) (server) sending feedback to client (sid 17)(ip 16.2.196.159):FAILURE
+(2016-05-26 16:12:15.670026) (server) sending hint to client (sid 17)(ip 16.2.196.159):[0:2]
+(2016-05-26 16:12:15.670092) (server) sending secret code to client (sid 17)(ip 16.2.196.159):EDBA
+(2016-05-26 16:12:15.670154) (server) receiving new code from client (sid 19)(ip 16.2.196.166):DEAF
+(2016-05-26 16:12:15.670182) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.670202) (server) sending hint to client (sid 19)(ip 16.2.196.166):[0:3]
+(2016-05-26 16:12:15.670227) (server) receiving new code from client (sid 8)(ip 16.2.196.164):BEAD
+(2016-05-26 16:12:15.670274) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.670305) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:2]
+(2016-05-26 16:12:15.670361) (server) receiving new code from client (sid 20)(ip 16.2.196.167):FADE
+(2016-05-26 16:12:15.670387) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.670405) (server) sending hint to client (sid 20)(ip 16.2.196.167):[0:1]
+(2016-05-26 16:12:15.670426) (server) receiving new code from client (sid 16)(ip 16.2.196.158):FEED
+(2016-05-26 16:12:15.670472) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.670502) (server) sending hint to client (sid 16)(ip 16.2.196.158):[0:2]
+(2016-05-26 16:12:15.670528) (server) receiving new code from client (sid 10)(ip 16.2.196.154):CEDE
+(2016-05-26 16:12:15.670577) (server) sending feedback to client (sid 10)(ip 16.2.196.154):FAILURE
+(2016-05-26 16:12:15.670604) (server) sending hint to client (sid 10)(ip 16.2.196.154):[0:0]
+(2016-05-26 16:12:15.670619) (server) sending secret code to client (sid 10)(ip 16.2.196.154):BAFB
+(2016-05-26 16:12:15.670676) (server) receiving new code from client (sid 7)(ip 16.2.196.163):DEAF
+(2016-05-26 16:12:15.670733) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.670768) (server) sending hint to client (sid 7)(ip 16.2.196.163):[0:2]
+(2016-05-26 16:12:15.670793) (server) receiving new code from client (sid 13)(ip 16.2.196.165):DEAF
+(2016-05-26 16:12:15.670839) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.670866) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:2]
+(2016-05-26 16:12:15.670889) (server) receiving new code from client (sid 11)(ip 16.2.196.157):CEDE
+(2016-05-26 16:12:15.670923) (server) sending feedback to client (sid 11)(ip 16.2.196.157):FAILURE
+(2016-05-26 16:12:15.670985) (server) sending hint to client (sid 11)(ip 16.2.196.157):[1:0]
+(2016-05-26 16:12:15.671012) (server) sending secret code to client (sid 11)(ip 16.2.196.157):CBFC
+(2016-05-26 16:12:15.671076) (server) choosing new code for client: BFFF
+(2016-05-26 16:12:15.671109) (server) sending message to client (sid 14)(ip 16.2.196.171):Welcome to mastermind, code...
+(2016-05-26 16:12:15.671136) (server) choosing new code for client: ABFD
+(2016-05-26 16:12:15.671190) (server) sending message to client (sid 15)(ip 16.2.196.172):Welcome to mastermind, code...
+(2016-05-26 16:12:15.671215) (server) receiving new code from client (sid 9)(ip 16.2.196.168):CAFE
+(2016-05-26 16:12:15.671241) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.671263) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.671285) (server) receiving new code from client (sid 18)(ip 16.2.196.160):FEED
+(2016-05-26 16:12:15.671333) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.671362) (server) sending hint to client (sid 18)(ip 16.2.196.160):[0:1]
+(2016-05-26 16:12:15.671388) (server) receiving new code from client (sid 12)(ip 16.2.196.170):FACE
+(2016-05-26 16:12:15.671417) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.671480) (server) sending hint to client (sid 12)(ip 16.2.196.170):[1:1]
+(2016-05-26 16:12:15.674604) (server) receiving new code from client (sid 21)(ip 16.2.196.169):CAFE
+(2016-05-26 16:12:15.674648) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.674670) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:2]
+(2016-05-26 16:12:15.674694) (server) receiving new code from client (sid 5)(ip 16.2.196.161):BEAD
+(2016-05-26 16:12:15.674725) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.674743) (server) sending hint to client (sid 5)(ip 16.2.196.161):[0:2]
+(2016-05-26 16:12:15.674765) (server) receiving new code from client (sid 6)(ip 16.2.196.162):FEED
+(2016-05-26 16:12:15.674810) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.674836) (server) sending hint to client (sid 6)(ip 16.2.196.162):[1:0]
+(2016-05-26 16:12:15.674928) (server) receiving new code from client (sid 19)(ip 16.2.196.166):BEEF
+(2016-05-26 16:12:15.674979) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.675045) (server) sending hint to client (sid 19)(ip 16.2.196.166):[0:3]
+(2016-05-26 16:12:15.675073) (server) receiving new code from client (sid 8)(ip 16.2.196.164):FEED
+(2016-05-26 16:12:15.675101) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.675126) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:2]
+(2016-05-26 16:12:15.675156) (server) connecting to new client (sid 10)(ip 16.2.196.173)
+(2016-05-26 16:12:15.675211) (server) receiving new code from client (sid 13)(ip 16.2.196.165):BEEF
+(2016-05-26 16:12:15.675239) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.675264) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:0]
+(2016-05-26 16:12:15.675286) (server) receiving new code from client (sid 14)(ip 16.2.196.171):FACE
+(2016-05-26 16:12:15.675336) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.675366) (server) sending hint to client (sid 14)(ip 16.2.196.171):[0:1]
+(2016-05-26 16:12:15.675393) (server) receiving new code from client (sid 15)(ip 16.2.196.172):FACE
+(2016-05-26 16:12:15.675419) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.675441) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:2]
+(2016-05-26 16:12:15.675463) (server) receiving new code from client (sid 9)(ip 16.2.196.168):FADE
+(2016-05-26 16:12:15.675490) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.675509) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.675531) (server) receiving new code from client (sid 18)(ip 16.2.196.160):BADE
+(2016-05-26 16:12:15.675580) (server) sending feedback to client (sid 18)(ip 16.2.196.160):NICETRY
+(2016-05-26 16:12:15.675610) (server) sending hint to client (sid 18)(ip 16.2.196.160):[1:1]
+(2016-05-26 16:12:15.675637) (server) receiving new code from client (sid 12)(ip 16.2.196.170):CAFE
+(2016-05-26 16:12:15.675665) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.675697) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:2]
+(2016-05-26 16:12:15.675728) (server) choosing new code for client: CDBE
+(2016-05-26 16:12:15.675787) (server) sending message to client (sid 10)(ip 16.2.196.173):Welcome to mastermind, code...
+(2016-05-26 16:12:15.677645) (server) receiving new code from client (sid 10)(ip 16.2.196.173):FACE
+(2016-05-26 16:12:15.677682) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.677714) (server) sending hint to client (sid 10)(ip 16.2.196.173):[1:1]
+(2016-05-26 16:12:15.677739) (server) receiving new code from client (sid 20)(ip 16.2.196.167):ACED
+(2016-05-26 16:12:15.677763) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.677780) (server) sending hint to client (sid 20)(ip 16.2.196.167):[1:1]
+(2016-05-26 16:12:15.677800) (server) receiving new code from client (sid 16)(ip 16.2.196.158):BADE
+(2016-05-26 16:12:15.677841) (server) sending feedback to client (sid 16)(ip 16.2.196.158):NICETRY
+(2016-05-26 16:12:15.677867) (server) sending hint to client (sid 16)(ip 16.2.196.158):[1:1]
+(2016-05-26 16:12:15.677890) (server) receiving new code from client (sid 7)(ip 16.2.196.163):BEEF
+(2016-05-26 16:12:15.677916) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.677934) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:2]
+(2016-05-26 16:12:15.679436) (server) receiving new code from client (sid 21)(ip 16.2.196.169):FADE
+(2016-05-26 16:12:15.679479) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.679512) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:2]
+(2016-05-26 16:12:15.679574) (server) receiving new code from client (sid 5)(ip 16.2.196.161):FEED
+(2016-05-26 16:12:15.679604) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.679629) (server) sending hint to client (sid 5)(ip 16.2.196.161):[0:1]
+(2016-05-26 16:12:15.679653) (server) receiving new code from client (sid 6)(ip 16.2.196.162):BADE
+(2016-05-26 16:12:15.679681) (server) sending feedback to client (sid 6)(ip 16.2.196.162):NICETRY
+(2016-05-26 16:12:15.679702) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:2]
+(2016-05-26 16:12:15.679725) (server) receiving new code from client (sid 19)(ip 16.2.196.166):BEAD
+(2016-05-26 16:12:15.679775) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.679805) (server) sending hint to client (sid 19)(ip 16.2.196.166):[0:3]
+(2016-05-26 16:12:15.679828) (server) receiving new code from client (sid 8)(ip 16.2.196.164):BADE
+(2016-05-26 16:12:15.679856) (server) sending feedback to client (sid 8)(ip 16.2.196.164):NICETRY
+(2016-05-26 16:12:15.679880) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:2]
+(2016-05-26 16:12:15.679904) (server) receiving new code from client (sid 13)(ip 16.2.196.165):BEAD
+(2016-05-26 16:12:15.679930) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.679956) (server) sending hint to client (sid 13)(ip 16.2.196.165):[1:1]
+(2016-05-26 16:12:15.679978) (server) receiving new code from client (sid 14)(ip 16.2.196.171):CAFE
+(2016-05-26 16:12:15.680027) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.680056) (server) sending hint to client (sid 14)(ip 16.2.196.171):[1:0]
+(2016-05-26 16:12:15.680082) (server) receiving new code from client (sid 15)(ip 16.2.196.172):CAFE
+(2016-05-26 16:12:15.680108) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.680131) (server) sending hint to client (sid 15)(ip 16.2.196.172):[1:1]
+(2016-05-26 16:12:15.680155) (server) receiving new code from client (sid 9)(ip 16.2.196.168):ACED
+(2016-05-26 16:12:15.680181) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.680206) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:2]
+(2016-05-26 16:12:15.680228) (server) receiving new code from client (sid 18)(ip 16.2.196.160):CEDE
+(2016-05-26 16:12:15.680280) (server) sending feedback to client (sid 18)(ip 16.2.196.160):FAILURE
+(2016-05-26 16:12:15.680310) (server) sending hint to client (sid 18)(ip 16.2.196.160):[1:1]
+(2016-05-26 16:12:15.680330) (server) sending secret code to client (sid 18)(ip 16.2.196.160):ACDC
+(2016-05-26 16:12:15.680388) (server) receiving new code from client (sid 12)(ip 16.2.196.170):FADE
+(2016-05-26 16:12:15.680416) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.680441) (server) sending hint to client (sid 12)(ip 16.2.196.170):[1:1]
+(2016-05-26 16:12:15.680467) (server) connecting to new client (sid 11)(ip 16.2.196.174)
+(2016-05-26 16:12:15.680515) (server) receiving new code from client (sid 10)(ip 16.2.196.173):CAFE
+(2016-05-26 16:12:15.680547) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.680572) (server) sending hint to client (sid 10)(ip 16.2.196.173):[2:0]
+(2016-05-26 16:12:15.680594) (server) receiving new code from client (sid 20)(ip 16.2.196.167):DEAF
+(2016-05-26 16:12:15.680639) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.680708) (server) sending hint to client (sid 20)(ip 16.2.196.167):[1:0]
+(2016-05-26 16:12:15.680735) (server) receiving new code from client (sid 16)(ip 16.2.196.158):CEDE
+(2016-05-26 16:12:15.680761) (server) sending feedback to client (sid 16)(ip 16.2.196.158):FAILURE
+(2016-05-26 16:12:15.680784) (server) sending hint to client (sid 16)(ip 16.2.196.158):[0:2]
+(2016-05-26 16:12:15.680800) (server) sending secret code to client (sid 16)(ip 16.2.196.158):BDCF
+(2016-05-26 16:12:15.680907) (server) choosing new code for client: FAEC
+(2016-05-26 16:12:15.680938) (server) sending message to client (sid 11)(ip 16.2.196.174):Welcome to mastermind, code...
+(2016-05-26 16:12:15.680963) (server) receiving new code from client (sid 7)(ip 16.2.196.163):BEAD
+(2016-05-26 16:12:15.681014) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.681044) (server) sending hint to client (sid 7)(ip 16.2.196.163):[0:1]
+(2016-05-26 16:12:15.682419) (server) receiving new code from client (sid 11)(ip 16.2.196.174):FACE
+(2016-05-26 16:12:15.682459) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.682481) (server) sending hint to client (sid 11)(ip 16.2.196.174):[2:2]
+(2016-05-26 16:12:15.682509) (server) connecting to new client (sid 16)(ip 16.2.196.175)
+(2016-05-26 16:12:15.682560) (server) receiving new code from client (sid 21)(ip 16.2.196.169):ACED
+(2016-05-26 16:12:15.682588) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.682607) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:2]
+(2016-05-26 16:12:15.682633) (server) receiving new code from client (sid 5)(ip 16.2.196.161):BADE
+(2016-05-26 16:12:15.682659) (server) sending feedback to client (sid 5)(ip 16.2.196.161):NICETRY
+(2016-05-26 16:12:15.682685) (server) sending hint to client (sid 5)(ip 16.2.196.161):[2:0]
+(2016-05-26 16:12:15.682708) (server) receiving new code from client (sid 6)(ip 16.2.196.162):CEDE
+(2016-05-26 16:12:15.682733) (server) sending feedback to client (sid 6)(ip 16.2.196.162):FAILURE
+(2016-05-26 16:12:15.682756) (server) sending hint to client (sid 6)(ip 16.2.196.162):[0:2]
+(2016-05-26 16:12:15.682774) (server) sending secret code to client (sid 6)(ip 16.2.196.162):ADCD
+(2016-05-26 16:12:15.682826) (server) receiving new code from client (sid 19)(ip 16.2.196.166):FEED
+(2016-05-26 16:12:15.682879) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.682908) (server) sending hint to client (sid 19)(ip 16.2.196.166):[1:2]
+(2016-05-26 16:12:15.682934) (server) receiving new code from client (sid 8)(ip 16.2.196.164):CEDE
+(2016-05-26 16:12:15.682961) (server) sending feedback to client (sid 8)(ip 16.2.196.164):FAILURE
+(2016-05-26 16:12:15.682979) (server) sending hint to client (sid 8)(ip 16.2.196.164):[0:2]
+(2016-05-26 16:12:15.682996) (server) sending secret code to client (sid 8)(ip 16.2.196.164):EFCA
+(2016-05-26 16:12:15.683050) (server) receiving new code from client (sid 13)(ip 16.2.196.165):FEED
+(2016-05-26 16:12:15.683101) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.683129) (server) sending hint to client (sid 13)(ip 16.2.196.165):[1:0]
+(2016-05-26 16:12:15.683159) (server) choosing new code for client: BEFF
+(2016-05-26 16:12:15.683190) (server) sending message to client (sid 16)(ip 16.2.196.175):Welcome to mastermind, code...
+(2016-05-26 16:12:15.686135) (server) connecting to new client (sid 6)(ip 16.2.196.176)
+(2016-05-26 16:12:15.686206) (server) choosing new code for client: CFAA
+(2016-05-26 16:12:15.686251) (server) sending message to client (sid 6)(ip 16.2.196.176):Welcome to mastermind, code...
+(2016-05-26 16:12:15.688407) (server) connecting to new client (sid 8)(ip 16.2.196.177)
+(2016-05-26 16:12:15.688483) (server) choosing new code for client: DEAC
+(2016-05-26 16:12:15.688533) (server) sending message to client (sid 8)(ip 16.2.196.177):Welcome to mastermind, code...
+(2016-05-26 16:12:15.689778) (server) connecting to new client (sid 17)(ip 16.2.196.178)
+(2016-05-26 16:12:15.689893) (server) choosing new code for client: CAEA
+(2016-05-26 16:12:15.689974) (server) sending message to client (sid 17)(ip 16.2.196.178):Welcome to mastermind, code...
+(2016-05-26 16:12:15.691799) (server) connecting to new client (sid 18)(ip 16.2.196.179)
+(2016-05-26 16:12:15.691870) (server) choosing new code for client: CBEF
+(2016-05-26 16:12:15.691920) (server) sending message to client (sid 18)(ip 16.2.196.179):Welcome to mastermind, code...
+(2016-05-26 16:12:15.694021) (server) connecting to new client (sid 22)(ip 16.2.196.180)
+(2016-05-26 16:12:15.694082) (server) connecting to new client (sid 23)(ip 16.2.196.181)
+(2016-05-26 16:12:15.694130) (server) choosing new code for client: EEBC
+(2016-05-26 16:12:15.694174) (server) sending message to client (sid 22)(ip 16.2.196.180):Welcome to mastermind, code...
+(2016-05-26 16:12:15.694205) (server) choosing new code for client: EACC
+(2016-05-26 16:12:15.694234) (server) sending message to client (sid 23)(ip 16.2.196.181):Welcome to mastermind, code...
+(2016-05-26 16:12:15.694533) (server) connecting to new client (sid 24)(ip 16.2.196.182)
+(2016-05-26 16:12:15.694643) (server) choosing new code for client: BFBC
+(2016-05-26 16:12:15.694681) (server) sending message to client (sid 24)(ip 16.2.196.182):Welcome to mastermind, code...
+(2016-05-26 16:12:15.695016) (server) connecting to new client (sid 25)(ip 16.2.196.183)
+(2016-05-26 16:12:15.695069) (server) choosing new code for client: DCEC
+(2016-05-26 16:12:15.695104) (server) sending message to client (sid 25)(ip 16.2.196.183):Welcome to mastermind, code...
+(2016-05-26 16:12:15.695603) (server) connecting to new client (sid 26)(ip 16.2.196.184)
+(2016-05-26 16:12:15.695654) (server) connecting to new client (sid 27)(ip 16.2.196.185)
+(2016-05-26 16:12:15.695695) (server) choosing new code for client: ACCE
+(2016-05-26 16:12:15.695738) (server) choosing new code for client: ACCB
+(2016-05-26 16:12:15.695773) (server) sending message to client (sid 27)(ip 16.2.196.185):Welcome to mastermind, code...
+(2016-05-26 16:12:15.695799) (server) sending message to client (sid 26)(ip 16.2.196.184):Welcome to mastermind, code...
+(2016-05-26 16:12:15.698235) (server) receiving new code from client (sid 15)(ip 16.2.196.172):FADE
+(2016-05-26 16:12:15.698277) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.698309) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:3]
+(2016-05-26 16:12:15.698339) (server) receiving new code from client (sid 9)(ip 16.2.196.168):DEAF
+(2016-05-26 16:12:15.698394) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.698424) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.698449) (server) receiving new code from client (sid 12)(ip 16.2.196.170):ACED
+(2016-05-26 16:12:15.698474) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.698493) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:1]
+(2016-05-26 16:12:15.698514) (server) receiving new code from client (sid 10)(ip 16.2.196.173):FADE
+(2016-05-26 16:12:15.698537) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.698556) (server) sending hint to client (sid 10)(ip 16.2.196.173):[1:1]
+(2016-05-26 16:12:15.698580) (server) receiving new code from client (sid 20)(ip 16.2.196.167):BEEF
+(2016-05-26 16:12:15.698607) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.698630) (server) sending hint to client (sid 20)(ip 16.2.196.167):[0:0]
+(2016-05-26 16:12:15.698654) (server) receiving new code from client (sid 7)(ip 16.2.196.163):FEED
+(2016-05-26 16:12:15.698681) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.698700) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:2]
+(2016-05-26 16:12:15.698722) (server) receiving new code from client (sid 16)(ip 16.2.196.175):FACE
+(2016-05-26 16:12:15.698772) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.698804) (server) sending hint to client (sid 16)(ip 16.2.196.175):[0:2]
+(2016-05-26 16:12:15.698830) (server) receiving new code from client (sid 21)(ip 16.2.196.169):DEAF
+(2016-05-26 16:12:15.698860) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.698882) (server) sending hint to client (sid 21)(ip 16.2.196.169):[2:0]
+(2016-05-26 16:12:15.698905) (server) receiving new code from client (sid 11)(ip 16.2.196.174):CAFE
+(2016-05-26 16:12:15.698969) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.698992) (server) sending hint to client (sid 11)(ip 16.2.196.174):[1:3]
+(2016-05-26 16:12:15.699013) (server) receiving new code from client (sid 5)(ip 16.2.196.161):CEDE
+(2016-05-26 16:12:15.699063) (server) sending feedback to client (sid 5)(ip 16.2.196.161):FAILURE
+(2016-05-26 16:12:15.699092) (server) sending hint to client (sid 5)(ip 16.2.196.161):[1:1]
+(2016-05-26 16:12:15.699113) (server) sending secret code to client (sid 5)(ip 16.2.196.161):AADC
+(2016-05-26 16:12:15.699185) (server) connecting to new client (sid 5)(ip 16.2.196.186)
+(2016-05-26 16:12:15.699232) (server) connecting to new client (sid 28)(ip 16.2.196.187)
+(2016-05-26 16:12:15.699275) (server) receiving new code from client (sid 19)(ip 16.2.196.166):BADE
+(2016-05-26 16:12:15.699303) (server) sending feedback to client (sid 19)(ip 16.2.196.166):NICETRY
+(2016-05-26 16:12:15.699325) (server) sending hint to client (sid 19)(ip 16.2.196.166):[1:2]
+(2016-05-26 16:12:15.699348) (server) receiving new code from client (sid 13)(ip 16.2.196.165):BADE
+(2016-05-26 16:12:15.699399) (server) sending feedback to client (sid 13)(ip 16.2.196.165):NICETRY
+(2016-05-26 16:12:15.699428) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:2]
+(2016-05-26 16:12:15.699452) (server) receiving new code from client (sid 6)(ip 16.2.196.176):FACE
+(2016-05-26 16:12:15.699478) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.699497) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:3]
+(2016-05-26 16:12:15.699519) (server) receiving new code from client (sid 8)(ip 16.2.196.177):FACE
+(2016-05-26 16:12:15.699564) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.699632) (server) sending hint to client (sid 8)(ip 16.2.196.177):[0:3]
+(2016-05-26 16:12:15.699658) (server) receiving new code from client (sid 17)(ip 16.2.196.178):FACE
+(2016-05-26 16:12:15.699683) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.699701) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:2]
+(2016-05-26 16:12:15.699723) (server) receiving new code from client (sid 18)(ip 16.2.196.179):FACE
+(2016-05-26 16:12:15.699746) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.699770) (server) sending hint to client (sid 18)(ip 16.2.196.179):[0:3]
+(2016-05-26 16:12:15.699793) (server) receiving new code from client (sid 22)(ip 16.2.196.180):FACE
+(2016-05-26 16:12:15.699839) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.699867) (server) sending hint to client (sid 22)(ip 16.2.196.180):[0:2]
+(2016-05-26 16:12:15.699891) (server) receiving new code from client (sid 23)(ip 16.2.196.181):FACE
+(2016-05-26 16:12:15.699915) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.699933) (server) sending hint to client (sid 23)(ip 16.2.196.181):[2:1]
+(2016-05-26 16:12:15.699954) (server) receiving new code from client (sid 24)(ip 16.2.196.182):FACE
+(2016-05-26 16:12:15.699977) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.700000) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:2]
+(2016-05-26 16:12:15.700022) (server) receiving new code from client (sid 25)(ip 16.2.196.183):FACE
+(2016-05-26 16:12:15.700047) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.700100) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:2]
+(2016-05-26 16:12:15.700125) (server) receiving new code from client (sid 27)(ip 16.2.196.185):FACE
+(2016-05-26 16:12:15.700149) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.700211) (server) sending hint to client (sid 27)(ip 16.2.196.185):[2:1]
+(2016-05-26 16:12:15.700236) (server) receiving new code from client (sid 26)(ip 16.2.196.184):FACE
+(2016-05-26 16:12:15.700305) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.700367) (server) sending hint to client (sid 26)(ip 16.2.196.184):[1:1]
+(2016-05-26 16:12:15.700393) (server) receiving new code from client (sid 14)(ip 16.2.196.171):FADE
+(2016-05-26 16:12:15.700415) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.700438) (server) sending hint to client (sid 14)(ip 16.2.196.171):[0:1]
+(2016-05-26 16:12:15.700466) (server) choosing new code for client: FFEC
+(2016-05-26 16:12:15.700517) (server) sending message to client (sid 5)(ip 16.2.196.186):Welcome to mastermind, code...
+(2016-05-26 16:12:15.700537) (server) choosing new code for client: AEDD
+(2016-05-26 16:12:15.700561) (server) sending message to client (sid 28)(ip 16.2.196.187):Welcome to mastermind, code...
+(2016-05-26 16:12:15.700588) (server) receiving new code from client (sid 15)(ip 16.2.196.172):ACED
+(2016-05-26 16:12:15.700627) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.700651) (server) sending hint to client (sid 15)(ip 16.2.196.172):[2:0]
+(2016-05-26 16:12:15.700672) (server) receiving new code from client (sid 9)(ip 16.2.196.168):BEEF
+(2016-05-26 16:12:15.700715) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.700742) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.700787) (server) receiving new code from client (sid 12)(ip 16.2.196.170):DEAF
+(2016-05-26 16:12:15.700844) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.700877) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:2]
+(2016-05-26 16:12:15.700900) (server) receiving new code from client (sid 10)(ip 16.2.196.173):ACED
+(2016-05-26 16:12:15.700934) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.700994) (server) sending hint to client (sid 10)(ip 16.2.196.173):[0:3]
+(2016-05-26 16:12:15.701019) (server) receiving new code from client (sid 20)(ip 16.2.196.167):BEAD
+(2016-05-26 16:12:15.701048) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.701153) (server) sending hint to client (sid 20)(ip 16.2.196.167):[1:0]
+(2016-05-26 16:12:15.701178) (server) receiving new code from client (sid 7)(ip 16.2.196.163):BADE
+(2016-05-26 16:12:15.701202) (server) sending feedback to client (sid 7)(ip 16.2.196.163):NICETRY
+(2016-05-26 16:12:15.701284) (server) sending hint to client (sid 7)(ip 16.2.196.163):[1:0]
+(2016-05-26 16:12:15.701309) (server) receiving new code from client (sid 16)(ip 16.2.196.175):CAFE
+(2016-05-26 16:12:15.701335) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.701386) (server) sending hint to client (sid 16)(ip 16.2.196.175):[1:1]
+(2016-05-26 16:12:15.701409) (server) receiving new code from client (sid 21)(ip 16.2.196.169):BEEF
+(2016-05-26 16:12:15.701434) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.701458) (server) sending hint to client (sid 21)(ip 16.2.196.169):[1:0]
+(2016-05-26 16:12:15.701483) (server) receiving new code from client (sid 11)(ip 16.2.196.174):FADE
+(2016-05-26 16:12:15.701533) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.701560) (server) sending hint to client (sid 11)(ip 16.2.196.174):[2:1]
+(2016-05-26 16:12:15.701585) (server) connecting to new client (sid 29)(ip 16.2.196.188)
+(2016-05-26 16:12:15.702403) (server) receiving new code from client (sid 19)(ip 16.2.196.166):CEDE
+(2016-05-26 16:12:15.702429) (server) receiving new code from client (sid 13)(ip 16.2.196.165):CEDE
+(2016-05-26 16:12:15.702545) (server) sending feedback to client (sid 19)(ip 16.2.196.166):FAILURE
+(2016-05-26 16:12:15.702565) (server) receiving new code from client (sid 6)(ip 16.2.196.176):CAFE
+(2016-05-26 16:12:15.702605) (server) choosing new code for client: BDFC
+(2016-05-26 16:12:15.702644) (server) receiving new code from client (sid 8)(ip 16.2.196.177):CAFE
+(2016-05-26 16:12:15.702724) (server) sending feedback to client (sid 13)(ip 16.2.196.165):FAILURE
+(2016-05-26 16:12:15.702759) (server) receiving new code from client (sid 17)(ip 16.2.196.178):CAFE
+(2016-05-26 16:12:15.702814) (server) receiving new code from client (sid 18)(ip 16.2.196.179):CAFE
+(2016-05-26 16:12:15.702847) (server) receiving new code from client (sid 23)(ip 16.2.196.181):CAFE
+(2016-05-26 16:12:15.702879) (server) receiving new code from client (sid 22)(ip 16.2.196.180):CAFE
+(2016-05-26 16:12:15.702919) (server) receiving new code from client (sid 24)(ip 16.2.196.182):CAFE
+(2016-05-26 16:12:15.702944) (server) receiving new code from client (sid 25)(ip 16.2.196.183):CAFE
+(2016-05-26 16:12:15.702976) (server) receiving new code from client (sid 27)(ip 16.2.196.185):CAFE
+(2016-05-26 16:12:15.703012) (server) receiving new code from client (sid 26)(ip 16.2.196.184):CAFE
+(2016-05-26 16:12:15.703047) (server) receiving new code from client (sid 14)(ip 16.2.196.171):ACED
+(2016-05-26 16:12:15.703080) (server) receiving new code from client (sid 5)(ip 16.2.196.186):FACE
+(2016-05-26 16:12:15.703116) (server) receiving new code from client (sid 28)(ip 16.2.196.187):FACE
+(2016-05-26 16:12:15.703139) (server) receiving new code from client (sid 15)(ip 16.2.196.172):DEAF
+(2016-05-26 16:12:15.703176) (server) receiving new code from client (sid 9)(ip 16.2.196.168):BEAD
+(2016-05-26 16:12:15.703199) (server) receiving new code from client (sid 12)(ip 16.2.196.170):BEEF
+(2016-05-26 16:12:15.703231) (server) receiving new code from client (sid 10)(ip 16.2.196.173):DEAF
+(2016-05-26 16:12:15.703261) (server) receiving new code from client (sid 20)(ip 16.2.196.167):FEED
+(2016-05-26 16:12:15.703291) (server) receiving new code from client (sid 16)(ip 16.2.196.175):FADE
+(2016-05-26 16:12:15.703318) (server) receiving new code from client (sid 7)(ip 16.2.196.163):CEDE
+(2016-05-26 16:12:15.703341) (server) receiving new code from client (sid 21)(ip 16.2.196.169):BEAD
+(2016-05-26 16:12:15.703372) (server) receiving new code from client (sid 11)(ip 16.2.196.174):ACED
+(2016-05-26 16:12:15.703400) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.703432) (server) sending hint to client (sid 19)(ip 16.2.196.166):[1:1]
+(2016-05-26 16:12:15.703461) (server) sending message to client (sid 29)(ip 16.2.196.188):Welcome to mastermind, code...
+(2016-05-26 16:12:15.703484) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.703524) (server) sending hint to client (sid 13)(ip 16.2.196.165):[0:2]
+(2016-05-26 16:12:15.703560) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.703597) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.703632) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.703697) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.704318) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.704386) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.704427) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.704459) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.704490) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.704529) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.704593) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.704633) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.704671) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.704743) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.704783) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.704858) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.704896) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.704933) (server) sending feedback to client (sid 7)(ip 16.2.196.163):FAILURE
+(2016-05-26 16:12:15.704969) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.705041) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.705110) (server) sending hint to client (sid 6)(ip 16.2.196.176):[1:2]
+(2016-05-26 16:12:15.705403) (server) sending secret code to client (sid 19)(ip 16.2.196.166):FDBE
+(2016-05-26 16:12:15.705432) (server) receiving new code from client (sid 29)(ip 16.2.196.188):FACE
+(2016-05-26 16:12:15.705474) (server) sending hint to client (sid 8)(ip 16.2.196.177):[0:3]
+(2016-05-26 16:12:15.705503) (server) sending secret code to client (sid 13)(ip 16.2.196.165):ADCD
+(2016-05-26 16:12:15.705525) (server) sending hint to client (sid 17)(ip 16.2.196.178):[2:1]
+(2016-05-26 16:12:15.705560) (server) sending hint to client (sid 18)(ip 16.2.196.179):[1:2]
+(2016-05-26 16:12:15.705580) (server) sending hint to client (sid 23)(ip 16.2.196.181):[1:2]
+(2016-05-26 16:12:15.705602) (server) sending hint to client (sid 22)(ip 16.2.196.180):[0:2]
+(2016-05-26 16:12:15.705622) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:2]
+(2016-05-26 16:12:15.705640) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:2]
+(2016-05-26 16:12:15.705659) (server) sending hint to client (sid 27)(ip 16.2.196.185):[1:2]
+(2016-05-26 16:12:15.705679) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:2]
+(2016-05-26 16:12:15.705706) (server) sending hint to client (sid 14)(ip 16.2.196.171):[0:0]
+(2016-05-26 16:12:15.705724) (server) sending hint to client (sid 5)(ip 16.2.196.186):[1:2]
+(2016-05-26 16:12:15.705759) (server) sending hint to client (sid 28)(ip 16.2.196.187):[0:2]
+(2016-05-26 16:12:15.705782) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:3]
+(2016-05-26 16:12:15.705807) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.705829) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:2]
+(2016-05-26 16:12:15.705855) (server) sending hint to client (sid 10)(ip 16.2.196.173):[0:2]
+(2016-05-26 16:12:15.705877) (server) sending hint to client (sid 20)(ip 16.2.196.167):[0:0]
+(2016-05-26 16:12:15.705903) (server) sending hint to client (sid 16)(ip 16.2.196.175):[0:2]
+(2016-05-26 16:12:15.705926) (server) sending hint to client (sid 7)(ip 16.2.196.163):[2:1]
+(2016-05-26 16:12:15.705951) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:1]
+(2016-05-26 16:12:15.705978) (server) sending hint to client (sid 11)(ip 16.2.196.174):[1:2]
+(2016-05-26 16:12:15.706002) (server) receiving new code from client (sid 6)(ip 16.2.196.176):FADE
+(2016-05-26 16:12:15.706039) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.706067) (server) receiving new code from client (sid 8)(ip 16.2.196.177):FADE
+(2016-05-26 16:12:15.706103) (server) receiving new code from client (sid 17)(ip 16.2.196.178):FADE
+(2016-05-26 16:12:15.706164) (server) receiving new code from client (sid 18)(ip 16.2.196.179):FADE
+(2016-05-26 16:12:15.706190) (server) receiving new code from client (sid 23)(ip 16.2.196.181):FADE
+(2016-05-26 16:12:15.706232) (server) receiving new code from client (sid 22)(ip 16.2.196.180):FADE
+(2016-05-26 16:12:15.706255) (server) receiving new code from client (sid 24)(ip 16.2.196.182):FADE
+(2016-05-26 16:12:15.706288) (server) receiving new code from client (sid 25)(ip 16.2.196.183):FADE
+(2016-05-26 16:12:15.706322) (server) receiving new code from client (sid 27)(ip 16.2.196.185):FADE
+(2016-05-26 16:12:15.706391) (server) receiving new code from client (sid 26)(ip 16.2.196.184):FADE
+(2016-05-26 16:12:15.706465) (server) receiving new code from client (sid 14)(ip 16.2.196.171):DEAF
+(2016-05-26 16:12:15.706536) (server) receiving new code from client (sid 5)(ip 16.2.196.186):CAFE
+(2016-05-26 16:12:15.706565) (server) receiving new code from client (sid 28)(ip 16.2.196.187):CAFE
+(2016-05-26 16:12:15.706603) (server) receiving new code from client (sid 15)(ip 16.2.196.172):BEEF
+(2016-05-26 16:12:15.706627) (server) receiving new code from client (sid 9)(ip 16.2.196.168):FEED
+(2016-05-26 16:12:15.706665) (server) receiving new code from client (sid 12)(ip 16.2.196.170):BEAD
+(2016-05-26 16:12:15.706693) (server) receiving new code from client (sid 10)(ip 16.2.196.173):BEEF
+(2016-05-26 16:12:15.706720) (server) receiving new code from client (sid 20)(ip 16.2.196.167):BADE
+(2016-05-26 16:12:15.706749) (server) receiving new code from client (sid 16)(ip 16.2.196.175):ACED
+(2016-05-26 16:12:15.706771) (server) sending secret code to client (sid 7)(ip 16.2.196.163):CFEE
+(2016-05-26 16:12:15.706800) (server) receiving new code from client (sid 21)(ip 16.2.196.169):FEED
+(2016-05-26 16:12:15.706841) (server) receiving new code from client (sid 11)(ip 16.2.196.174):DEAF
+(2016-05-26 16:12:15.706863) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.706886) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.706917) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.706938) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.706973) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.706998) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.707035) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.707071) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.707105) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.707143) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.707176) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.707210) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.707246) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.707282) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.707321) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.707349) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.707371) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.707392) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.707431) (server) sending feedback to client (sid 20)(ip 16.2.196.167):NICETRY
+(2016-05-26 16:12:15.707455) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.707493) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.707516) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.707537) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:2]
+(2016-05-26 16:12:15.707559) (server) receiving new code from client (sid 29)(ip 16.2.196.188):CAFE
+(2016-05-26 16:12:15.707589) (server) sending hint to client (sid 8)(ip 16.2.196.177):[0:3]
+(2016-05-26 16:12:15.707618) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:1]
+(2016-05-26 16:12:15.707643) (server) sending hint to client (sid 18)(ip 16.2.196.179):[0:2]
+(2016-05-26 16:12:15.707668) (server) sending hint to client (sid 23)(ip 16.2.196.181):[1:1]
+(2016-05-26 16:12:15.707718) (server) sending hint to client (sid 22)(ip 16.2.196.180):[0:1]
+(2016-05-26 16:12:15.707743) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:1]
+(2016-05-26 16:12:15.707768) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:2]
+(2016-05-26 16:12:15.707819) (server) sending hint to client (sid 27)(ip 16.2.196.185):[1:1]
+(2016-05-26 16:12:15.707873) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:1]
+(2016-05-26 16:12:15.707901) (server) sending hint to client (sid 14)(ip 16.2.196.171):[1:0]
+(2016-05-26 16:12:15.707921) (server) sending hint to client (sid 5)(ip 16.2.196.186):[0:3]
+(2016-05-26 16:12:15.707946) (server) sending hint to client (sid 28)(ip 16.2.196.187):[0:2]
+(2016-05-26 16:12:15.707977) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:2]
+(2016-05-26 16:12:15.708002) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:2]
+(2016-05-26 16:12:15.708025) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:2]
+(2016-05-26 16:12:15.708046) (server) sending hint to client (sid 10)(ip 16.2.196.173):[0:2]
+(2016-05-26 16:12:15.708070) (server) sending hint to client (sid 20)(ip 16.2.196.167):[0:1]
+(2016-05-26 16:12:15.708090) (server) sending hint to client (sid 16)(ip 16.2.196.175):[0:1]
+(2016-05-26 16:12:15.708113) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:2]
+(2016-05-26 16:12:15.708134) (server) sending hint to client (sid 11)(ip 16.2.196.174):[0:3]
+(2016-05-26 16:12:15.708157) (server) receiving new code from client (sid 6)(ip 16.2.196.176):ACED
+(2016-05-26 16:12:15.708180) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.708210) (server) receiving new code from client (sid 8)(ip 16.2.196.177):ACED
+(2016-05-26 16:12:15.708237) (server) receiving new code from client (sid 17)(ip 16.2.196.178):ACED
+(2016-05-26 16:12:15.708270) (server) receiving new code from client (sid 18)(ip 16.2.196.179):ACED
+(2016-05-26 16:12:15.708294) (server) receiving new code from client (sid 23)(ip 16.2.196.181):ACED
+(2016-05-26 16:12:15.708324) (server) receiving new code from client (sid 22)(ip 16.2.196.180):ACED
+(2016-05-26 16:12:15.708346) (server) receiving new code from client (sid 24)(ip 16.2.196.182):ACED
+(2016-05-26 16:12:15.708367) (server) receiving new code from client (sid 25)(ip 16.2.196.183):ACED
+(2016-05-26 16:12:15.708394) (server) receiving new code from client (sid 27)(ip 16.2.196.185):ACED
+(2016-05-26 16:12:15.708424) (server) receiving new code from client (sid 26)(ip 16.2.196.184):ACED
+(2016-05-26 16:12:15.708449) (server) receiving new code from client (sid 14)(ip 16.2.196.171):BEEF
+(2016-05-26 16:12:15.708475) (server) receiving new code from client (sid 5)(ip 16.2.196.186):FADE
+(2016-05-26 16:12:15.708505) (server) receiving new code from client (sid 28)(ip 16.2.196.187):FADE
+(2016-05-26 16:12:15.708527) (server) receiving new code from client (sid 15)(ip 16.2.196.172):BEAD
+(2016-05-26 16:12:15.708560) (server) receiving new code from client (sid 9)(ip 16.2.196.168):BADE
+(2016-05-26 16:12:15.708581) (server) receiving new code from client (sid 12)(ip 16.2.196.170):FEED
+(2016-05-26 16:12:15.708612) (server) receiving new code from client (sid 10)(ip 16.2.196.173):BEAD
+(2016-05-26 16:12:15.708635) (server) receiving new code from client (sid 20)(ip 16.2.196.167):CEDE
+(2016-05-26 16:12:15.708657) (server) receiving new code from client (sid 16)(ip 16.2.196.175):DEAF
+(2016-05-26 16:12:15.708683) (server) receiving new code from client (sid 21)(ip 16.2.196.169):BADE
+(2016-05-26 16:12:15.708712) (server) receiving new code from client (sid 11)(ip 16.2.196.174):BEEF
+(2016-05-26 16:12:15.708736) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.708764) (server) sending hint to client (sid 29)(ip 16.2.196.188):[1:1]
+(2016-05-26 16:12:15.708793) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.708818) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.708840) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.708865) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.708900) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.708957) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.709023) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.709063) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.709100) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.709134) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.709167) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.709206) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.709241) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.709275) (server) sending feedback to client (sid 9)(ip 16.2.196.168):NICETRY
+(2016-05-26 16:12:15.709309) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.709342) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.709376) (server) sending feedback to client (sid 20)(ip 16.2.196.167):FAILURE
+(2016-05-26 16:12:15.709411) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.709444) (server) sending feedback to client (sid 21)(ip 16.2.196.169):NICETRY
+(2016-05-26 16:12:15.709478) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.709522) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:2]
+(2016-05-26 16:12:15.709545) (server) receiving new code from client (sid 29)(ip 16.2.196.188):FADE
+(2016-05-26 16:12:15.709572) (server) sending hint to client (sid 8)(ip 16.2.196.177):[0:4]
+(2016-05-26 16:12:15.709600) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:2]
+(2016-05-26 16:12:15.709625) (server) sending hint to client (sid 18)(ip 16.2.196.179):[1:1]
+(2016-05-26 16:12:15.709650) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:3]
+(2016-05-26 16:12:15.709685) (server) sending hint to client (sid 22)(ip 16.2.196.180):[0:2]
+(2016-05-26 16:12:15.709710) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:1]
+(2016-05-26 16:12:15.709734) (server) sending hint to client (sid 25)(ip 16.2.196.183):[2:1]
+(2016-05-26 16:12:15.709756) (server) sending hint to client (sid 27)(ip 16.2.196.185):[2:1]
+(2016-05-26 16:12:15.709780) (server) sending hint to client (sid 26)(ip 16.2.196.184):[2:0]
+(2016-05-26 16:12:15.709803) (server) sending hint to client (sid 14)(ip 16.2.196.171):[2:0]
+(2016-05-26 16:12:15.709826) (server) sending hint to client (sid 5)(ip 16.2.196.186):[1:1]
+(2016-05-26 16:12:15.709849) (server) sending hint to client (sid 28)(ip 16.2.196.187):[1:2]
+(2016-05-26 16:12:15.709871) (server) sending hint to client (sid 15)(ip 16.2.196.172):[1:2]
+(2016-05-26 16:12:15.709894) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:3]
+(2016-05-26 16:12:15.709917) (server) sending hint to client (sid 12)(ip 16.2.196.170):[1:0]
+(2016-05-26 16:12:15.709940) (server) sending hint to client (sid 10)(ip 16.2.196.173):[0:3]
+(2016-05-26 16:12:15.709963) (server) sending hint to client (sid 20)(ip 16.2.196.167):[1:0]
+(2016-05-26 16:12:15.709986) (server) sending hint to client (sid 16)(ip 16.2.196.175):[2:0]
+(2016-05-26 16:12:15.710005) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:1]
+(2016-05-26 16:12:15.710028) (server) sending hint to client (sid 11)(ip 16.2.196.174):[1:1]
+(2016-05-26 16:12:15.710061) (server) receiving new code from client (sid 6)(ip 16.2.196.176):DEAF
+(2016-05-26 16:12:15.710081) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.710120) (server) receiving new code from client (sid 8)(ip 16.2.196.177):DEAF
+(2016-05-26 16:12:15.710151) (server) receiving new code from client (sid 17)(ip 16.2.196.178):DEAF
+(2016-05-26 16:12:15.710181) (server) receiving new code from client (sid 18)(ip 16.2.196.179):DEAF
+(2016-05-26 16:12:15.710209) (server) receiving new code from client (sid 23)(ip 16.2.196.181):DEAF
+(2016-05-26 16:12:15.710275) (server) receiving new code from client (sid 22)(ip 16.2.196.180):DEAF
+(2016-05-26 16:12:15.710299) (server) receiving new code from client (sid 24)(ip 16.2.196.182):DEAF
+(2016-05-26 16:12:15.710333) (server) receiving new code from client (sid 25)(ip 16.2.196.183):DEAF
+(2016-05-26 16:12:15.710363) (server) receiving new code from client (sid 27)(ip 16.2.196.185):DEAF
+(2016-05-26 16:12:15.710416) (server) receiving new code from client (sid 26)(ip 16.2.196.184):DEAF
+(2016-05-26 16:12:15.710440) (server) receiving new code from client (sid 14)(ip 16.2.196.171):BEAD
+(2016-05-26 16:12:15.710525) (server) receiving new code from client (sid 5)(ip 16.2.196.186):ACED
+(2016-05-26 16:12:15.710553) (server) receiving new code from client (sid 28)(ip 16.2.196.187):ACED
+(2016-05-26 16:12:15.710586) (server) receiving new code from client (sid 15)(ip 16.2.196.172):FEED
+(2016-05-26 16:12:15.710608) (server) receiving new code from client (sid 9)(ip 16.2.196.168):CEDE
+(2016-05-26 16:12:15.710627) (server) receiving new code from client (sid 12)(ip 16.2.196.170):BADE
+(2016-05-26 16:12:15.710664) (server) receiving new code from client (sid 10)(ip 16.2.196.173):FEED
+(2016-05-26 16:12:15.710705) (server) sending secret code to client (sid 20)(ip 16.2.196.167):CCAA
+(2016-05-26 16:12:15.710729) (server) receiving new code from client (sid 16)(ip 16.2.196.175):BEEF
+(2016-05-26 16:12:15.710759) (server) receiving new code from client (sid 21)(ip 16.2.196.169):CEDE
+(2016-05-26 16:12:15.710790) (server) receiving new code from client (sid 11)(ip 16.2.196.174):BEAD
+(2016-05-26 16:12:15.710819) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.710851) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.710877) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.710899) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.710943) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.710982) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.711017) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.711053) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.711088) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.711127) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.711161) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.711182) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.711207) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.711245) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.711269) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.711295) (server) sending feedback to client (sid 9)(ip 16.2.196.168):FAILURE
+(2016-05-26 16:12:15.711328) (server) sending feedback to client (sid 12)(ip 16.2.196.170):NICETRY
+(2016-05-26 16:12:15.711365) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.711408) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.711445) (server) sending feedback to client (sid 21)(ip 16.2.196.169):FAILURE
+(2016-05-26 16:12:15.711480) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.711515) (server) receiving new code from client (sid 29)(ip 16.2.196.188):ACED
+(2016-05-26 16:12:15.711547) (server) sending hint to client (sid 6)(ip 16.2.196.176):[1:1]
+(2016-05-26 16:12:15.711574) (server) sending hint to client (sid 8)(ip 16.2.196.177):[3:0]
+(2016-05-26 16:12:15.711631) (server) sending hint to client (sid 17)(ip 16.2.196.178):[0:2]
+(2016-05-26 16:12:15.711656) (server) sending hint to client (sid 18)(ip 16.2.196.179):[1:1]
+(2016-05-26 16:12:15.711717) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:2]
+(2016-05-26 16:12:15.711744) (server) sending hint to client (sid 22)(ip 16.2.196.180):[1:0]
+(2016-05-26 16:12:15.711764) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:1]
+(2016-05-26 16:12:15.711789) (server) sending hint to client (sid 25)(ip 16.2.196.183):[1:1]
+(2016-05-26 16:12:15.711812) (server) sending hint to client (sid 27)(ip 16.2.196.185):[0:2]
+(2016-05-26 16:12:15.711836) (server) sending hint to client (sid 14)(ip 16.2.196.171):[1:0]
+(2016-05-26 16:12:15.711858) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:1]
+(2016-05-26 16:12:15.711881) (server) sending hint to client (sid 5)(ip 16.2.196.186):[1:1]
+(2016-05-26 16:12:15.711905) (server) sending hint to client (sid 28)(ip 16.2.196.187):[2:1]
+(2016-05-26 16:12:15.711929) (server) sending hint to client (sid 15)(ip 16.2.196.172):[1:1]
+(2016-05-26 16:12:15.711952) (server) sending hint to client (sid 9)(ip 16.2.196.168):[0:1]
+(2016-05-26 16:12:15.711975) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:2]
+(2016-05-26 16:12:15.711998) (server) sending hint to client (sid 10)(ip 16.2.196.173):[0:2]
+(2016-05-26 16:12:15.712021) (server) sending hint to client (sid 16)(ip 16.2.196.175):[3:0]
+(2016-05-26 16:12:15.712050) (server) sending hint to client (sid 21)(ip 16.2.196.169):[0:2]
+(2016-05-26 16:12:15.712071) (server) sending hint to client (sid 11)(ip 16.2.196.174):[0:2]
+(2016-05-26 16:12:15.712099) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.712173) (server) receiving new code from client (sid 6)(ip 16.2.196.176):BEEF
+(2016-05-26 16:12:15.712204) (server) receiving new code from client (sid 8)(ip 16.2.196.177):BEEF
+(2016-05-26 16:12:15.712254) (server) receiving new code from client (sid 17)(ip 16.2.196.178):BEEF
+(2016-05-26 16:12:15.712363) (server) receiving new code from client (sid 18)(ip 16.2.196.179):BEEF
+(2016-05-26 16:12:15.712399) (server) receiving new code from client (sid 23)(ip 16.2.196.181):BEEF
+(2016-05-26 16:12:15.712450) (server) receiving new code from client (sid 22)(ip 16.2.196.180):BEEF
+(2016-05-26 16:12:15.712504) (server) receiving new code from client (sid 24)(ip 16.2.196.182):BEEF
+(2016-05-26 16:12:15.712535) (server) receiving new code from client (sid 25)(ip 16.2.196.183):BEEF
+(2016-05-26 16:12:15.712637) (server) receiving new code from client (sid 27)(ip 16.2.196.185):BEEF
+(2016-05-26 16:12:15.712666) (server) receiving new code from client (sid 14)(ip 16.2.196.171):FEED
+(2016-05-26 16:12:15.712701) (server) receiving new code from client (sid 26)(ip 16.2.196.184):BEEF
+(2016-05-26 16:12:15.712730) (server) receiving new code from client (sid 5)(ip 16.2.196.186):DEAF
+(2016-05-26 16:12:15.712768) (server) receiving new code from client (sid 28)(ip 16.2.196.187):DEAF
+(2016-05-26 16:12:15.712809) (server) receiving new code from client (sid 15)(ip 16.2.196.172):BADE
+(2016-05-26 16:12:15.712836) (server) sending secret code to client (sid 9)(ip 16.2.196.168):EFBA
+(2016-05-26 16:12:15.712902) (server) receiving new code from client (sid 12)(ip 16.2.196.170):CEDE
+(2016-05-26 16:12:15.712930) (server) receiving new code from client (sid 10)(ip 16.2.196.173):BADE
+(2016-05-26 16:12:15.712969) (server) receiving new code from client (sid 16)(ip 16.2.196.175):BEAD
+(2016-05-26 16:12:15.713003) (server) sending secret code to client (sid 21)(ip 16.2.196.169):DDCF
+(2016-05-26 16:12:15.713026) (server) receiving new code from client (sid 11)(ip 16.2.196.174):FEED
+(2016-05-26 16:12:15.713064) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.713092) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.713117) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.713148) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.713185) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.713253) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.713290) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.713327) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.713363) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.713406) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.713441) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.713476) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.713500) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.713526) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.713561) (server) sending feedback to client (sid 15)(ip 16.2.196.172):NICETRY
+(2016-05-26 16:12:15.713587) (server) sending feedback to client (sid 12)(ip 16.2.196.170):FAILURE
+(2016-05-26 16:12:15.713623) (server) sending feedback to client (sid 10)(ip 16.2.196.173):NICETRY
+(2016-05-26 16:12:15.713645) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.713672) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.713710) (server) receiving new code from client (sid 29)(ip 16.2.196.188):DEAF
+(2016-05-26 16:12:15.713730) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:1]
+(2016-05-26 16:12:15.713756) (server) sending hint to client (sid 8)(ip 16.2.196.177):[1:0]
+(2016-05-26 16:12:15.713782) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:0]
+(2016-05-26 16:12:15.713807) (server) sending hint to client (sid 18)(ip 16.2.196.179):[2:1]
+(2016-05-26 16:12:15.713851) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:1]
+(2016-05-26 16:12:15.713891) (server) sending hint to client (sid 22)(ip 16.2.196.180):[1:2]
+(2016-05-26 16:12:15.713918) (server) sending hint to client (sid 24)(ip 16.2.196.182):[1:1]
+(2016-05-26 16:12:15.713943) (server) sending hint to client (sid 25)(ip 16.2.196.183):[1:0]
+(2016-05-26 16:12:15.713973) (server) sending hint to client (sid 27)(ip 16.2.196.185):[0:1]
+(2016-05-26 16:12:15.714008) (server) sending hint to client (sid 14)(ip 16.2.196.171):[0:1]
+(2016-05-26 16:12:15.714031) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:1]
+(2016-05-26 16:12:15.714056) (server) sending hint to client (sid 5)(ip 16.2.196.186):[0:2]
+(2016-05-26 16:12:15.714079) (server) sending hint to client (sid 28)(ip 16.2.196.187):[1:2]
+(2016-05-26 16:12:15.714101) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:3]
+(2016-05-26 16:12:15.714124) (server) sending hint to client (sid 12)(ip 16.2.196.170):[0:0]
+(2016-05-26 16:12:15.714145) (server) sending hint to client (sid 10)(ip 16.2.196.173):[1:2]
+(2016-05-26 16:12:15.714171) (server) sending hint to client (sid 16)(ip 16.2.196.175):[2:0]
+(2016-05-26 16:12:15.714196) (server) sending hint to client (sid 11)(ip 16.2.196.174):[2:0]
+(2016-05-26 16:12:15.714216) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.714239) (server) receiving new code from client (sid 6)(ip 16.2.196.176):BEAD
+(2016-05-26 16:12:15.714260) (server) receiving new code from client (sid 8)(ip 16.2.196.177):BEAD
+(2016-05-26 16:12:15.714291) (server) receiving new code from client (sid 17)(ip 16.2.196.178):BEAD
+(2016-05-26 16:12:15.714356) (server) receiving new code from client (sid 18)(ip 16.2.196.179):BEAD
+(2016-05-26 16:12:15.714379) (server) receiving new code from client (sid 23)(ip 16.2.196.181):BEAD
+(2016-05-26 16:12:15.714411) (server) receiving new code from client (sid 22)(ip 16.2.196.180):BEAD
+(2016-05-26 16:12:15.714440) (server) receiving new code from client (sid 24)(ip 16.2.196.182):BEAD
+(2016-05-26 16:12:15.714469) (server) receiving new code from client (sid 25)(ip 16.2.196.183):BEAD
+(2016-05-26 16:12:15.714532) (server) receiving new code from client (sid 27)(ip 16.2.196.185):BEAD
+(2016-05-26 16:12:15.714576) (server) receiving new code from client (sid 14)(ip 16.2.196.171):BADE
+(2016-05-26 16:12:15.714611) (server) receiving new code from client (sid 26)(ip 16.2.196.184):BEAD
+(2016-05-26 16:12:15.714658) (server) receiving new code from client (sid 5)(ip 16.2.196.186):BEEF
+(2016-05-26 16:12:15.714691) (server) receiving new code from client (sid 28)(ip 16.2.196.187):BEEF
+(2016-05-26 16:12:15.714715) (server) receiving new code from client (sid 15)(ip 16.2.196.172):CEDE
+(2016-05-26 16:12:15.714770) (server) sending secret code to client (sid 12)(ip 16.2.196.170):FBBA
+(2016-05-26 16:12:15.714832) (server) receiving new code from client (sid 10)(ip 16.2.196.173):CEDE
+(2016-05-26 16:12:15.714854) (server) receiving new code from client (sid 16)(ip 16.2.196.175):FEED
+(2016-05-26 16:12:15.714883) (server) receiving new code from client (sid 11)(ip 16.2.196.174):BADE
+(2016-05-26 16:12:15.714917) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.714939) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.714963) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.714991) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.715028) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.715063) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.715097) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.715131) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.715166) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.715201) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.715236) (server) sending feedback to client (sid 14)(ip 16.2.196.171):NICETRY
+(2016-05-26 16:12:15.715270) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.715304) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.715337) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.715365) (server) sending feedback to client (sid 15)(ip 16.2.196.172):FAILURE
+(2016-05-26 16:12:15.715392) (server) sending feedback to client (sid 10)(ip 16.2.196.173):FAILURE
+(2016-05-26 16:12:15.715419) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.715461) (server) sending feedback to client (sid 11)(ip 16.2.196.174):NICETRY
+(2016-05-26 16:12:15.715486) (server) receiving new code from client (sid 29)(ip 16.2.196.188):BEEF
+(2016-05-26 16:12:15.715522) (server) sending hint to client (sid 6)(ip 16.2.196.176):[1:0]
+(2016-05-26 16:12:15.715550) (server) sending hint to client (sid 8)(ip 16.2.196.177):[2:1]
+(2016-05-26 16:12:15.715575) (server) sending hint to client (sid 17)(ip 16.2.196.178):[0:2]
+(2016-05-26 16:12:15.715599) (server) sending hint to client (sid 18)(ip 16.2.196.179):[0:2]
+(2016-05-26 16:12:15.715639) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:2]
+(2016-05-26 16:12:15.715669) (server) sending hint to client (sid 22)(ip 16.2.196.180):[1:1]
+(2016-05-26 16:12:15.715694) (server) sending hint to client (sid 24)(ip 16.2.196.182):[1:0]
+(2016-05-26 16:12:15.715715) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:2]
+(2016-05-26 16:12:15.715742) (server) sending hint to client (sid 27)(ip 16.2.196.185):[0:2]
+(2016-05-26 16:12:15.715767) (server) sending hint to client (sid 14)(ip 16.2.196.171):[1:0]
+(2016-05-26 16:12:15.715786) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:2]
+(2016-05-26 16:12:15.715812) (server) sending hint to client (sid 5)(ip 16.2.196.186):[1:1]
+(2016-05-26 16:12:15.715835) (server) sending hint to client (sid 28)(ip 16.2.196.187):[1:0]
+(2016-05-26 16:12:15.715857) (server) sending hint to client (sid 15)(ip 16.2.196.172):[0:1]
+(2016-05-26 16:12:15.715913) (server) sending hint to client (sid 10)(ip 16.2.196.173):[2:1]
+(2016-05-26 16:12:15.715940) (server) sending hint to client (sid 16)(ip 16.2.196.175):[1:1]
+(2016-05-26 16:12:15.715971) (server) sending hint to client (sid 11)(ip 16.2.196.174):[1:1]
+(2016-05-26 16:12:15.715995) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.716029) (server) receiving new code from client (sid 6)(ip 16.2.196.176):FEED
+(2016-05-26 16:12:15.716058) (server) receiving new code from client (sid 8)(ip 16.2.196.177):FEED
+(2016-05-26 16:12:15.716107) (server) receiving new code from client (sid 17)(ip 16.2.196.178):FEED
+(2016-05-26 16:12:15.716215) (server) receiving new code from client (sid 18)(ip 16.2.196.179):FEED
+(2016-05-26 16:12:15.716246) (server) receiving new code from client (sid 23)(ip 16.2.196.181):FEED
+(2016-05-26 16:12:15.716324) (server) receiving new code from client (sid 22)(ip 16.2.196.180):FEED
+(2016-05-26 16:12:15.716377) (server) receiving new code from client (sid 24)(ip 16.2.196.182):FEED
+(2016-05-26 16:12:15.716413) (server) receiving new code from client (sid 25)(ip 16.2.196.183):FEED
+(2016-05-26 16:12:15.716474) (server) receiving new code from client (sid 27)(ip 16.2.196.185):FEED
+(2016-05-26 16:12:15.716510) (server) receiving new code from client (sid 14)(ip 16.2.196.171):CEDE
+(2016-05-26 16:12:15.716557) (server) receiving new code from client (sid 26)(ip 16.2.196.184):FEED
+(2016-05-26 16:12:15.716590) (server) receiving new code from client (sid 5)(ip 16.2.196.186):BEAD
+(2016-05-26 16:12:15.716613) (server) receiving new code from client (sid 28)(ip 16.2.196.187):BEAD
+(2016-05-26 16:12:15.716646) (server) sending secret code to client (sid 15)(ip 16.2.196.172):ABFD
+(2016-05-26 16:12:15.716703) (server) receiving new code from client (sid 16)(ip 16.2.196.175):BADE
+(2016-05-26 16:12:15.716742) (server) sending secret code to client (sid 10)(ip 16.2.196.173):CDBE
+(2016-05-26 16:12:15.716766) (server) receiving new code from client (sid 11)(ip 16.2.196.174):CEDE
+(2016-05-26 16:12:15.716820) (server) sending hint to client (sid 29)(ip 16.2.196.188):[1:1]
+(2016-05-26 16:12:15.716848) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.716874) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.716900) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.716923) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.716962) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.716998) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.717034) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.717070) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.717106) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.717144) (server) sending feedback to client (sid 14)(ip 16.2.196.171):FAILURE
+(2016-05-26 16:12:15.717179) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.717214) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.717237) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.717259) (server) sending feedback to client (sid 16)(ip 16.2.196.175):NICETRY
+(2016-05-26 16:12:15.717283) (server) sending feedback to client (sid 11)(ip 16.2.196.174):FAILURE
+(2016-05-26 16:12:15.717304) (server) receiving new code from client (sid 29)(ip 16.2.196.188):BEAD
+(2016-05-26 16:12:15.717326) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:1]
+(2016-05-26 16:12:15.717353) (server) sending hint to client (sid 8)(ip 16.2.196.177):[1:1]
+(2016-05-26 16:12:15.717377) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:0]
+(2016-05-26 16:12:15.717435) (server) sending hint to client (sid 18)(ip 16.2.196.179):[1:1]
+(2016-05-26 16:12:15.717473) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:1]
+(2016-05-26 16:12:15.717501) (server) sending hint to client (sid 22)(ip 16.2.196.180):[1:1]
+(2016-05-26 16:12:15.717526) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:1]
+(2016-05-26 16:12:15.717559) (server) sending hint to client (sid 25)(ip 16.2.196.183):[1:1]
+(2016-05-26 16:12:15.717586) (server) sending hint to client (sid 27)(ip 16.2.196.185):[0:1]
+(2016-05-26 16:12:15.717611) (server) sending hint to client (sid 14)(ip 16.2.196.171):[0:0]
+(2016-05-26 16:12:15.717636) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:0]
+(2016-05-26 16:12:15.717664) (server) sending hint to client (sid 5)(ip 16.2.196.186):[0:1]
+(2016-05-26 16:12:15.717692) (server) sending hint to client (sid 28)(ip 16.2.196.187):[2:1]
+(2016-05-26 16:12:15.717715) (server) sending hint to client (sid 16)(ip 16.2.196.175):[1:1]
+(2016-05-26 16:12:15.717739) (server) sending hint to client (sid 11)(ip 16.2.196.174):[0:2]
+(2016-05-26 16:12:15.717761) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.717798) (server) receiving new code from client (sid 6)(ip 16.2.196.176):BADE
+(2016-05-26 16:12:15.717921) (server) receiving new code from client (sid 8)(ip 16.2.196.177):BADE
+(2016-05-26 16:12:15.717956) (server) receiving new code from client (sid 17)(ip 16.2.196.178):BADE
+(2016-05-26 16:12:15.718095) (server) receiving new code from client (sid 18)(ip 16.2.196.179):BADE
+(2016-05-26 16:12:15.718138) (server) receiving new code from client (sid 23)(ip 16.2.196.181):BADE
+(2016-05-26 16:12:15.718203) (server) receiving new code from client (sid 22)(ip 16.2.196.180):BADE
+(2016-05-26 16:12:15.718236) (server) receiving new code from client (sid 24)(ip 16.2.196.182):BADE
+(2016-05-26 16:12:15.718263) (server) receiving new code from client (sid 25)(ip 16.2.196.183):BADE
+(2016-05-26 16:12:15.718297) (server) receiving new code from client (sid 27)(ip 16.2.196.185):BADE
+(2016-05-26 16:12:15.718330) (server) sending secret code to client (sid 14)(ip 16.2.196.171):BFFF
+(2016-05-26 16:12:15.718394) (server) receiving new code from client (sid 26)(ip 16.2.196.184):BADE
+(2016-05-26 16:12:15.718415) (server) receiving new code from client (sid 5)(ip 16.2.196.186):FEED
+(2016-05-26 16:12:15.718455) (server) receiving new code from client (sid 28)(ip 16.2.196.187):FEED
+(2016-05-26 16:12:15.718490) (server) receiving new code from client (sid 16)(ip 16.2.196.175):CEDE
+(2016-05-26 16:12:15.718513) (server) sending secret code to client (sid 11)(ip 16.2.196.174):FAEC
+(2016-05-26 16:12:15.718544) (server) sending hint to client (sid 29)(ip 16.2.196.188):[1:1]
+(2016-05-26 16:12:15.718577) (server) sending feedback to client (sid 6)(ip 16.2.196.176):NICETRY
+(2016-05-26 16:12:15.718605) (server) sending feedback to client (sid 8)(ip 16.2.196.177):NICETRY
+(2016-05-26 16:12:15.718635) (server) sending feedback to client (sid 17)(ip 16.2.196.178):NICETRY
+(2016-05-26 16:12:15.718675) (server) sending feedback to client (sid 18)(ip 16.2.196.179):NICETRY
+(2016-05-26 16:12:15.718711) (server) sending feedback to client (sid 23)(ip 16.2.196.181):NICETRY
+(2016-05-26 16:12:15.718747) (server) sending feedback to client (sid 22)(ip 16.2.196.180):NICETRY
+(2016-05-26 16:12:15.718783) (server) sending feedback to client (sid 24)(ip 16.2.196.182):NICETRY
+(2016-05-26 16:12:15.718821) (server) sending feedback to client (sid 25)(ip 16.2.196.183):NICETRY
+(2016-05-26 16:12:15.718856) (server) sending feedback to client (sid 27)(ip 16.2.196.185):NICETRY
+(2016-05-26 16:12:15.718891) (server) sending feedback to client (sid 26)(ip 16.2.196.184):NICETRY
+(2016-05-26 16:12:15.718926) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.718960) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.718983) (server) sending feedback to client (sid 16)(ip 16.2.196.175):FAILURE
+(2016-05-26 16:12:15.719059) (server) receiving new code from client (sid 29)(ip 16.2.196.188):FEED
+(2016-05-26 16:12:15.719094) (server) sending hint to client (sid 6)(ip 16.2.196.176):[0:1]
+(2016-05-26 16:12:15.719120) (server) sending hint to client (sid 8)(ip 16.2.196.177):[0:3]
+(2016-05-26 16:12:15.719165) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:1]
+(2016-05-26 16:12:15.719193) (server) sending hint to client (sid 18)(ip 16.2.196.179):[0:2]
+(2016-05-26 16:12:15.719218) (server) sending hint to client (sid 23)(ip 16.2.196.181):[1:1]
+(2016-05-26 16:12:15.719241) (server) sending hint to client (sid 22)(ip 16.2.196.180):[0:2]
+(2016-05-26 16:12:15.719263) (server) sending hint to client (sid 24)(ip 16.2.196.182):[1:0]
+(2016-05-26 16:12:15.719285) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:2]
+(2016-05-26 16:12:15.719307) (server) sending hint to client (sid 27)(ip 16.2.196.185):[1:1]
+(2016-05-26 16:12:15.719329) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:2]
+(2016-05-26 16:12:15.719352) (server) sending hint to client (sid 5)(ip 16.2.196.186):[2:0]
+(2016-05-26 16:12:15.719376) (server) sending hint to client (sid 28)(ip 16.2.196.187):[2:0]
+(2016-05-26 16:12:15.722405) (server) sending hint to client (sid 16)(ip 16.2.196.175):[1:0]
+(2016-05-26 16:12:15.722424) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.722454) (server) receiving new code from client (sid 6)(ip 16.2.196.176):CEDE
+(2016-05-26 16:12:15.722476) (server) receiving new code from client (sid 8)(ip 16.2.196.177):CEDE
+(2016-05-26 16:12:15.722512) (server) receiving new code from client (sid 17)(ip 16.2.196.178):CEDE
+(2016-05-26 16:12:15.722571) (server) receiving new code from client (sid 18)(ip 16.2.196.179):CEDE
+(2016-05-26 16:12:15.722606) (server) receiving new code from client (sid 23)(ip 16.2.196.181):CEDE
+(2016-05-26 16:12:15.722641) (server) receiving new code from client (sid 22)(ip 16.2.196.180):CEDE
+(2016-05-26 16:12:15.722667) (server) receiving new code from client (sid 24)(ip 16.2.196.182):CEDE
+(2016-05-26 16:12:15.722705) (server) receiving new code from client (sid 25)(ip 16.2.196.183):CEDE
+(2016-05-26 16:12:15.722728) (server) receiving new code from client (sid 27)(ip 16.2.196.185):CEDE
+(2016-05-26 16:12:15.722775) (server) receiving new code from client (sid 26)(ip 16.2.196.184):CEDE
+(2016-05-26 16:12:15.722901) (server) receiving new code from client (sid 5)(ip 16.2.196.186):BADE
+(2016-05-26 16:12:15.722969) (server) receiving new code from client (sid 28)(ip 16.2.196.187):BADE
+(2016-05-26 16:12:15.722991) (server) sending secret code to client (sid 16)(ip 16.2.196.175):BEFF
+(2016-05-26 16:12:15.723050) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.723072) (server) sending feedback to client (sid 6)(ip 16.2.196.176):FAILURE
+(2016-05-26 16:12:15.723092) (server) sending feedback to client (sid 8)(ip 16.2.196.177):FAILURE
+(2016-05-26 16:12:15.723113) (server) sending feedback to client (sid 17)(ip 16.2.196.178):FAILURE
+(2016-05-26 16:12:15.723147) (server) sending feedback to client (sid 18)(ip 16.2.196.179):FAILURE
+(2016-05-26 16:12:15.723174) (server) sending feedback to client (sid 23)(ip 16.2.196.181):FAILURE
+(2016-05-26 16:12:15.723202) (server) sending feedback to client (sid 22)(ip 16.2.196.180):FAILURE
+(2016-05-26 16:12:15.723234) (server) sending feedback to client (sid 24)(ip 16.2.196.182):FAILURE
+(2016-05-26 16:12:15.723269) (server) sending feedback to client (sid 25)(ip 16.2.196.183):FAILURE
+(2016-05-26 16:12:15.723304) (server) sending feedback to client (sid 27)(ip 16.2.196.185):FAILURE
+(2016-05-26 16:12:15.723340) (server) sending feedback to client (sid 26)(ip 16.2.196.184):FAILURE
+(2016-05-26 16:12:15.723400) (server) sending feedback to client (sid 5)(ip 16.2.196.186):NICETRY
+(2016-05-26 16:12:15.723429) (server) sending feedback to client (sid 28)(ip 16.2.196.187):NICETRY
+(2016-05-26 16:12:15.723456) (server) receiving new code from client (sid 29)(ip 16.2.196.188):BADE
+(2016-05-26 16:12:15.723495) (server) sending hint to client (sid 6)(ip 16.2.196.176):[1:0]
+(2016-05-26 16:12:15.723560) (server) sending hint to client (sid 8)(ip 16.2.196.177):[1:2]
+(2016-05-26 16:12:15.723596) (server) sending hint to client (sid 17)(ip 16.2.196.178):[1:1]
+(2016-05-26 16:12:15.723634) (server) sending hint to client (sid 18)(ip 16.2.196.179):[1:1]
+(2016-05-26 16:12:15.723705) (server) sending hint to client (sid 23)(ip 16.2.196.181):[0:2]
+(2016-05-26 16:12:15.723736) (server) sending hint to client (sid 22)(ip 16.2.196.180):[1:2]
+(2016-05-26 16:12:15.724385) (server) sending hint to client (sid 24)(ip 16.2.196.182):[0:1]
+(2016-05-26 16:12:15.724450) (server) sending hint to client (sid 25)(ip 16.2.196.183):[0:3]
+(2016-05-26 16:12:15.724491) (server) sending hint to client (sid 27)(ip 16.2.196.185):[1:1]
+(2016-05-26 16:12:15.724544) (server) sending hint to client (sid 26)(ip 16.2.196.184):[0:1]
+(2016-05-26 16:12:15.725105) (server) sending hint to client (sid 5)(ip 16.2.196.186):[0:1]
+(2016-05-26 16:12:15.725150) (server) sending hint to client (sid 28)(ip 16.2.196.187):[1:2]
+(2016-05-26 16:12:15.725180) (server) sending feedback to client (sid 29)(ip 16.2.196.188):NICETRY
+(2016-05-26 16:12:15.725297) (server) sending secret code to client (sid 6)(ip 16.2.196.176):CFAA
+(2016-05-26 16:12:15.725374) (server) sending secret code to client (sid 17)(ip 16.2.196.178):CAEA
+(2016-05-26 16:12:15.725439) (server) sending secret code to client (sid 8)(ip 16.2.196.177):DEAC
+(2016-05-26 16:12:15.725543) (server) sending secret code to client (sid 18)(ip 16.2.196.179):CBEF
+(2016-05-26 16:12:15.725604) (server) sending secret code to client (sid 23)(ip 16.2.196.181):EACC
+(2016-05-26 16:12:15.725672) (server) sending secret code to client (sid 22)(ip 16.2.196.180):EEBC
+(2016-05-26 16:12:15.725700) (server) sending secret code to client (sid 24)(ip 16.2.196.182):BFBC
+(2016-05-26 16:12:15.725738) (server) sending secret code to client (sid 25)(ip 16.2.196.183):DCEC
+(2016-05-26 16:12:15.725774) (server) sending secret code to client (sid 27)(ip 16.2.196.185):ACCE
+(2016-05-26 16:12:15.725815) (server) sending secret code to client (sid 26)(ip 16.2.196.184):ACCB
+(2016-05-26 16:12:15.725873) (server) receiving new code from client (sid 5)(ip 16.2.196.186):CEDE
+(2016-05-26 16:12:15.725895) (server) receiving new code from client (sid 28)(ip 16.2.196.187):CEDE
+(2016-05-26 16:12:15.725932) (server) sending hint to client (sid 29)(ip 16.2.196.188):[1:1]
+(2016-05-26 16:12:15.725957) (server) sending feedback to client (sid 5)(ip 16.2.196.186):FAILURE
+(2016-05-26 16:12:15.725976) (server) sending feedback to client (sid 28)(ip 16.2.196.187):FAILURE
+(2016-05-26 16:12:15.725997) (server) receiving new code from client (sid 29)(ip 16.2.196.188):CEDE
+(2016-05-26 16:12:15.726020) (server) sending hint to client (sid 5)(ip 16.2.196.186):[0:2]
+(2016-05-26 16:12:15.726048) (server) sending hint to client (sid 28)(ip 16.2.196.187):[2:0]
+(2016-05-26 16:12:15.726074) (server) sending feedback to client (sid 29)(ip 16.2.196.188):FAILURE
+(2016-05-26 16:12:15.726110) (server) sending secret code to client (sid 5)(ip 16.2.196.186):FFEC
+(2016-05-26 16:12:15.726160) (server) sending secret code to client (sid 28)(ip 16.2.196.187):AEDD
+(2016-05-26 16:12:15.726285) (server) sending hint to client (sid 29)(ip 16.2.196.188):[0:2]
+(2016-05-26 16:12:15.726311) (server) sending secret code to client (sid 29)(ip 16.2.196.188):BDFC
+
+(2016-05-26 16:12:30.045988) (server) closing logfile!
+summary:
+ connections: 50
+ winning clients: 1 losing clients: 49
+ disconnecting clients: 0
+ total blocks on mutexes: 557
+ total blocks on sockets: 390
+ total voluntary context switches:   391
+ total involuntary context switches: 937
+(2016-05-26 16:12:30.046020) (server) bye!

@@ -1,0 +1,159 @@
+report.txt
+
+DESCRIPTION
+===========
+
+Prepare a short report ( <= 500 words in length) named report.txt using plain text format that:
+
+-	describes the resource usage and performance data that you have collected.
+
+-	compares the values for resource usage and performance data when your sever 
+	program runs on both digitalis.eng.unimelb.edu.au and your NeCTAR cloud VM –
+	especially examining what happens when the number of concurrent clients 
+	increases.
+
+You must add the file report.txt to your SVN repository.
+
+
+CRITERIA
+========
+
+Report (2 marks)
+
+–	report.txt added to your SVN repository
+
+–	the report describes additional statistics – it includes more
+	than simply counting client ‘connects’ and games won
+
+–	comparison data included; discussion valid.
+
+RESULTS
+=======
+
+
+RAW DATA
+========
+
+NeCTAR Serial
+
+$ tail -10 log.txt
+(2016-05-25 13:34:00.032308) (server) closing logfile!
+summary:
+ connections: 50
+ winning clients: 2 losing clients: 48
+ disconnecting clients: 0
+ total blocks on mutexes: 0
+ total blocks on sockets: 536
+ total voluntary context switches:   543
+ total involuntary context switches: 7
+(2016-05-25 13:34:00.032540) (server) bye!
+
+NeCTAR concurrent
+
+$ tail -10 log.txt
+(2016-05-25 13:38:01.703271) (server) closing logfile!
+summary:
+ connections: 50
+ winning clients: 0 losing clients: 50
+ disconnecting clients: 0
+ total blocks on mutexes: 7
+ total blocks on sockets: 547
+ total voluntary context switches:   555
+ total involuntary context switches: 8
+(2016-05-25 13:38:01.703323) (server) bye!
+
+digitalis serial
+
+$ tail -10 log.txt
+(2016-05-25 23:35:07.409781) (server) closing logfile!
+summary:
+ connections: 50
+ winning clients: 0 losing clients: 50
+ disconnecting clients: 0
+ total blocks on mutexes: 0
+ total blocks on sockets: 551
+ total voluntary context switches:   1560
+ total involuntary context switches: 2
+(2016-05-25 23:35:07.409827) (server) bye!
+
+digitalis concurrent
+
+$ tail -10 log.txt
+(2016-05-25 23:36:49.410770) (server) closing logfile!
+summary:
+ connections: 50
+ winning clients: 0 losing clients: 50
+ disconnecting clients: 0
+ total blocks on mutexes: 10
+ total blocks on sockets: 527
+ total voluntary context switches:   1564
+ total involuntary context switches: 5
+(2016-05-25 23:36:49.410812) (server) bye!
+
+EXTRA DATA NOT ANALYSED:
+
+
+digitalis to digitalis concurrent (after wednesday night load issues)
+summary:
+ connections: 50
+ winning clients: 0 losing clients: 50
+ disconnecting clients: 0
+ total blocks on mutexes: 252
+ total blocks on sockets: 482
+ total voluntary context switches:   1294
+ total involuntary context switches: 134
+
+me to digitalis (at uni) concurrent (after wednesday night load issues)
+summary:
+ connections: 50
+ winning clients: 0 losing clients: 50
+ disconnecting clients: 0
+ total blocks on mutexes: 451
+ total blocks on sockets: 530
+ total voluntary context switches:   1977
+ total involuntary context switches: 73
+
+
+THOUGHTS
+========
+
+talk about test procedure
+
+explain script (include source?)
+
+	"stdout on the client side was analysed to verify that all 50 clients made
+	a connection to the server before any clients terminated their connections,
+	in fact all 50 games proceeded in lockstep due to the network bottleneck."
+
+used `$ tail -10 log.txt` to read the summary from the logfile
+
+
+talk about
+
+- blocks on sockets
+it's interesting that the number of blocks on sockets is about 10*the number of connections, independent of whether we're connecting clients serially or concurrently
+well, the independence on concurrency makes a lot of sense, because i guess sockets really are handled concurrently and the limiting factor will be the network speed
+
+- blocks on mutexes, quite small on both machines (obvious zero in serial tests)
+
+- comparison to rusage stats
+
+discrepency for digitalis - where could these extra blocks be coming from!?
+
+maybe logfile io?
+
+apart from that, we're kinda measuring pretty much everything..? are we?
+
+
+
+
+
+Since it's important not to record these results without a lock on the 
+counting variables, the act of tracking blocking on mutexes may increase the 
+likelyhood of blocking on mutexes by further tying up mutexes!
+
+
+To avoid overcomplicating server code, this test is performed once before
+each call to a `send()`/`recv()` helper function. Firstly, it's possible that 
+between the call to `select()` and the call to `send()` or `recv()`, the socket
+will become ready and the thread will not actually block.
