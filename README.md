@@ -1,4 +1,4 @@
-# COMP30023 Computer Systems 2016 --- Project 1
+# COMP30023 Computer Systems 2016 --- Project 2
 
 From the README submitted with my 2016 Computer Systems project (see specification.pdf for the task):
 
@@ -11,8 +11,7 @@ From the README submitted with my 2016 Computer Systems project (see specificati
 > 
 > Matt
 
-CLIENT SIDE
------------
+## Client side
 
 #### client.c
 
@@ -29,8 +28,7 @@ this codebreaker is user-driven, it gets its guesses from stdin before
 sending them to its codemaker for feedback
 
 
-SERVER SIDE
------------
+## Server side
 
 #### server.c
 
@@ -64,8 +62,7 @@ or permissions checks)*
 also stores statistics while the server is in use and writes them to the
 end of the file when the server performs a shutdown
 
-MASTERMIND NETWORK PROTOCOL
----------------------------
+## Mastermind network protocol
 
 #### mastermind.c
 
@@ -79,8 +76,7 @@ network. instead, they are able to work at a *higher level of abstraction*,
 while this module takes care of reliably sending the messages through the
 socket
 
-OTHER
------
+## Other files
 
 #### Makefile
 
@@ -88,11 +84,11 @@ contains top level target (`both`) for compiling both a `server` and
 `client` binary executable, as well as individual targets (`client` and 
 `server`, as you might expect)
 
-#### README
+#### README (README.md)
 
 you are here; overview of the architecture of my solution
 
-#### ip.txt (REMOVED)
+#### ip.txt (removed, server no longer active)
 
 as specified, contains the IP address of my NeCTAR Research Cloud VM
 
@@ -104,8 +100,7 @@ socket blocks, mutex blocks tracked during server lifetime in comparison
 to the number of voluntary and involuntary context switches from `rusage`.
 
 
-THREADS + SIGNALS
------------------
+## Threads + Signals
 
 A special note to explain an extension I made to my server just to be pedantic:
 
@@ -152,11 +147,10 @@ signal handler: waiting for a lock on the logfile to close it, then exiting
 
 Fun!
 
-> That's all, folks!
-> ------------------
+> ### That's all, folks!
 >
 > Anyway, I hope you have as much fun marking my solution as I have had writing
 it (although, having experience with marking Computing assignments, I know
-that's *probably not going to be the case).
-
+that's *probably not* going to be the case).
+>
 > Matt
